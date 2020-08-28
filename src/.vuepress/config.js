@@ -11,7 +11,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Peter working\'s notes',
+  title: 'Peter\'s notes',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -42,16 +42,22 @@ module.exports = {
     nav: [
       {
         text: 'People',
-        link: '/people/people.md'
+        link: '/people/'
       },
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Journal',
+        link: 'https://docs.google.com/document/d/1l3FNWlNUzcpXtend9wrGc3PWSQDj9AwgWcwmOhRsYRY/edit#'
       },
+      {
+        text: 'Audio',
+        link: 'https://thevalmy.com'
+      },
+      /*
       {
         text: 'Config',
         link: '/config/'
       }
+      */
     ],
     sidebar: markdownFiles
     /*
