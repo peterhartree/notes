@@ -1,0 +1,7 @@
+# Fetch all, delete local branches that were deleted from remote
+git fetch --all --prune
+git checkout master
+git pull gitlab master
+git checkout staging
+git pull gitlab staging
+git checkout master

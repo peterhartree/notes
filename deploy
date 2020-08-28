@@ -1,0 +1,35 @@
+# if [ "$1" = "production" ]
+# then
+#  ENV="PRODUCTION";
+# else
+#  ENV="STAGING";
+# fi;
+
+# Default to production env
+ENV="PRODUCTION";
+
+echo "\n#-----------------------------------"
+echo "# Deployment Helper"
+echo "#-----------------------------------\n"
+echo "Hello friend. You are deploying to the $ENV environment.\n"
+echo "- Not what you intended? Hit CTRL+C to exit."
+
+# deploy
+
+if [ "$ENV" = "PRODUCTION" ]
+then
+  echo "Heads up! You're deploying to the PRODUCTION environment. Is this what you intended?"
+  select yn in "Yes" "No"; do
+      case $yn in
+          Yes ) git push github master;
+          echo "Deployment to Github complete.";
+          break;;
+          No ) exit;;
+      esac
+  done
+else
+  git push staging staging:master;
+  echo "Deployment to GitHub complete.";
+fi;
+
+sh push

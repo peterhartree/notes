@@ -1,0 +1,3 @@
+echo "Pushing all branches to GitHub...";
+
+git push --all github;
