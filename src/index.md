@@ -1,15 +1,19 @@
 ---
 home: true
+layout: Home
 # heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Thinking with the garage door up.
+tagline: Learning with the garage door up.
 # actionText: People I've learned from →
 # actionLink: /people/people.md
 features:
 - title: People
-  details: An incomplete list of people I've learned from](/people/People.md).
+  details: A list of people I've learned from.
+  button: { link: "/people/", text: "See the list" }
 - title: Journal
-  details: Feature 3 Description
-- title: Podcasts
-  details: Feature 2 Description
-footer: Thoughts? Send me a message!
+  details: Daily updates from my sabbatical.
+  button: { link: "https://docs.google.com/document/d/1l3FNWlNUzcpXtend9wrGc3PWSQDj9AwgWcwmOhRsYRY/edit#", text: "Read more" }
+- title: Podcast episodes
+  details: Discussions of interest.
+  button: { link: "https://thevalmy.com", text: "Listen" }
+footer: <p>Thoughts? Send me a message!</p><p><a href="https://twitter.com/peterhartree">@peterhartree</a><br><a href="">hello@peterhartree.co.uk</a></p>
 ---
