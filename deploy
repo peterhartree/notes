@@ -32,4 +32,7 @@ else
   echo "Deployment to GitHub complete.";
 fi;
 
+echo "Netlify will deploy automatically. See here for status:"
+echo "https://app.netlify.com/sites/peterhartree/deploys";
+
 sh push
