@@ -1,5 +1,5 @@
 # Nick Bostrom
-Bostrom convinced me that reducing catastrophic and existential risks should be among our top global priorities. His thoughts on this are best introduced in “The Vulnerable World Hypothesis”. Here’s an abstract from the abstract:
+Bostrom convinced me that reducing catastrophic and existential risks should be among our top global priorities. His thoughts on this are best introduced in [The Vulnerable World Hypothesis](https://nickbostrom.com/papers/vulnerable.pdf). Here’s an abstract from the abstract:
 
 > Scientific and technological progress might change people’s capabilities or incentives in ways that would destabilize civilization. For example, advances in DIY biohacking tools might make it easy for anybody with basic training in biology to kill millions; novel military technologies could trigger arms races in which whoever strikes first has a decisive advantage; or some economically advantageous process may be invented that produces disastrous negative global externalities that are hard to regulate. This paper introduces the concept of a vulnerable world: roughly, one in which there is some level of technological development at which civilization almost certainly gets devastated by default, i.e. unless it has exited the ‘semi-anarchic default condition’. 
 
@@ -16,10 +16,11 @@ On his website, he articulates a thought that has troubled me since my mid-teens
 Bostrom has dedicated his academic career to helping us discover and appreciate more crucial considerations for the future of humanity. I wish more of our best intellectuals would think in similarly ambitious terms.
 
 Places to start:
-* Vulnerable World Hypothesis (or this podcast discussion)
-* Crucial Considerations (audio)
-* Transhumanism FAQ
-* NickBostrom.com
+* [Vulnerable World Hypothesis](https://nickbostrom.com/papers/vulnerable.pdf) (or [this podcast discussion](https://www.listennotes.com/podcasts/making-sense-with/151-will-we-destroy-the-future-OZju5zDEolh/))
+* [Transhumanism FAQ](https://www.nickbostrom.com/views/transhumanist.pdf)
+* [The Reversal Test: Eliminating Status Quo Bias in Applied Ethics](http://www.nickbostrom.com/ethics/statusquo.pdf)
+* [Crucial Considerations](http://www.stafforini.com/blog/bostrom/)
+* [NickBostrom.com](NickBostrom.com)
 
 ## Notes
 * Add a longer list of favourite Bostrom papers, maybe with commentary.

@@ -10,17 +10,11 @@ Tim is one of several figures that helped me recognise that consuming daily news
 He’s also told me some great cautionary tales.  
 
 Places to start:
-* [50 Things]
-* [The Undercover Economist]
-* [Cautionary Tales]
-* [More or Less]
-
+* [50 Things That Made the Modern Economy](https://www.bbc.co.uk/programmes/p04b1g3c/episodes/downloads)
+* Book: The Undercover Economist
+* [Cautionary Tales](https://timharford.com/articles/cautionarytales/)
+* [More or Less](https://www.bbc.co.uk/programmes/b006qshd)
 
 <!-- #web/people -->
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNTc0NzU1XX0=
--->
 
 <!-- {BearID:tim-harford.md} -->

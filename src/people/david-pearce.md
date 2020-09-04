@@ -30,8 +30,9 @@ As Pearce is keen to stress, the future belongs to the live lovers, and even the
 [2] Transhumanism is short on attractive, non-weirdo advocates. Elon Musk is probably the best candidate, perhaps he and Grimes can develop a scalable transhuman aesthetic. Anders Sandberg is a charming weirdo. Liv Boree is an attractive former poker star who could pass for a normie. Personally I find Nick Bostrom very funny and oddly charismatic (“We already have skin enhancers... clothing”), but I understand this is a minority view. Who am I missing? 
 
 Places to start:
-* Hedweb.com
-* Quora
-* @TODO copy-paste from Slack
+* [Sentience Politics text interview](https://www.hedweb.com/hedethic/sentience-interview.html)
+* [Panpsycast interview](https://thepanpsycast.com/panpsycast2/episode61-p1)
+* [Quora questions and answers](https://www.hedweb.com/quora/index.html)
+* [The Hedonistic Imperative](https://www.hedweb.com/)
 
 <!-- {BearID:david-pearce.md} -->

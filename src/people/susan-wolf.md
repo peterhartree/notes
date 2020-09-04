@@ -8,9 +8,9 @@ She points out that while the “impartialist insight” is an essential aspect 
 A reform-minded consequentialist might worry that such a formulation is a recipe for complacency and conservatism. Much will hang on how you define the class of “reasonable people”. My sense is that there is a way to read this which leaves plenty of scope for reformist consequentialist thinking, while avoiding the absurd and outrageous implication that I may only spend time with my loved ones or pursue personal delights insofar as this maximises utility.
 
 Places to start:
-* [Moral Saints] (introductory discussion by Daniel Calcut)
-* [Partiality Impartiality]
-* [The Variety of Values]
+* [Moral Saints](https://sci-hub.tw/https://www.jstor.org/stable/2026228) ([Aeon commentary by Daniel Callcut](https://aeon.co/essays/why-it-is-better-not-to-aim-at-being-morally-perfect))
+* [Morality and Partiality](https://sci-hub.tw/https://www.jstor.org/stable/2214247)
+* Book: The Variety of Values
 
 I have not yet read Wolf’s “Meaning in Life” book, I expect it’s good.
 
@@ -21,9 +21,6 @@ I have not yet read Wolf’s “Meaning in Life” book, I expect it’s good.
 * Bernard Williams
 * One might be tempted to see her as occupied with decision procedures rather than criteria of rightness. I think that would be a misreading.
 
-## Backlinks
-* [[Index]]
-	* [[Susan Wolf]]
 
 <!-- #web/people -->
 

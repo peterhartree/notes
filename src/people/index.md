@@ -13,7 +13,7 @@ If this project proves useful, I will improve the entries.
 
 * [Nick Bostrom](nick-bostrom.md) 
 * [Tyler Cowen](tyler-cowen.md)
-* [Ralph Dobelli](ralph-dobelli.md)
+* [Rolf Dobelli](rolf-dobelli.md)
 * [B.J. Fogg](b-j--fogg.md)
 * [Tim Harford](tim-harford.md)
 * [David Pearce](david-pearce.md)

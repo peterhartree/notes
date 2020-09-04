@@ -9,9 +9,7 @@ Here’s Tyler describing Stubborn Attachments:
 
 Tyler’s interviewing style is widely acclaimed. I think his “underrated or overrated” segment may still be somewhat underrated, though. To me, it is significantly about teaching us how to think: demonstrating the fertility of marginal thinking and the difficulty of appropriate calibration.
 
-Stubborn Attachments might be a masterpiece, in any case I suspect it is currently underrated in some circles that should know better. My summary: we tend to be too focussed on wealth distribution, and not enough on wealth creation. Wealth is a necessary, nearly sufficient condition for realising values people care about [1]. If you can increase the long run sustainable rate of wealth creation, compounding generates staggering differences in wealth a few decades down the line. This means that the positive consequences of interventions that improve the growth rate dwarf those of nearly all interventions that don’t improve the growth rate.
-
-- illustration?
+Stubborn Attachments might be a masterpiece, I’m not sure yet. In any case I suspect it’s currently underrated in some circles that should know better. My summary: we tend to be too focussed on wealth distribution, and not enough on wealth creation. Wealth is a necessary, nearly sufficient condition for realising values people care about [1]. If you can increase the long run sustainable rate of wealth creation, compounding generates staggering differences in wealth a few decades down the line. This means that the positive consequences of interventions that improve the growth rate dwarf those of nearly all interventions that don’t improve the growth rate.
 
 With this in mind, it seems like a good starting maxim is: “maximise the rate of sustainable economic growth”. We should make some adjustments away from this (e.g. we can maintain an almost absolute commitment to basic human rights, e.g. “don’t murder”, “don’t torture”) but we should keep in mind just how incredibly expensive such deviations are for future people. This implies we should try much harder than we do to minimise the deviation—you can’t casually throw in your favourite causes, or some feel good concessions to the here and now, it really is just basic human rights and, well…  it’s not clear that anything else is above the bar.
 
@@ -28,13 +26,16 @@ This entry has focussed on the philosophy, but Tyler’s “real world” influe
 I hope to write more on Tyler’s work soon.
 
 Places to start:
-* [Stubborn Attachments]()
-* [SA Podcast interviews]()
-* [Be suspicious of stories]()
+* [Stubborn Attachments](https://www.amazon.co.uk/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135)
+	* [Cardiff Garcia interview](https://thevalmy.com/28)
+	* [Russ Roberts interview](https://www.listennotes.com/podcasts/econtalk/tyler-cowen-on-stubborn-voTPp5YliH3/)
+	* [Tyler’s key uncertainties about Stubborn Attachments](https://thevalmy.com/29)
+
+* [Talk: Be suspicious of stories](https://www.ted.com/talks/tyler_cowen_be_suspicious_of_simple_stories/transcript?language=en)
 
 Follow Tyler:
-* [Conversations with Tyler]()
-* [Tyler’s blog Marginal Revolution]()
+* [Conversations with Tyler](https://conversationswithtyler.com/)
+* [Tyler’s blog](marginalrevolution.com/)
 
 
 [1] I’m fuzzy on what Tyler means by “wealth” and what the relationship between “wealth” and “value” is supposed to be. @TODO
@@ -48,10 +49,6 @@ Follow Tyler:
 * Distrust of Pascal’s Wager type arguments.
 * Some of his “cone of value” and “incommensurability” comments suggest he thinks that we shouldn’t / can’t talk about the value of a world containing our posthuman descendants.
 * There’s actually not a substantive disagreement, just a disagreement about what it’s useful to say. 
-
-## Backlinks
-* [[Index]]
-	* [[Tyler Cowen]]
 
 <!-- #web/people -->
 
