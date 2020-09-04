@@ -22,6 +22,10 @@ I have not yet read Wolf’s “Meaning in Life” book, I expect it’s good.
 * One might be tempted to see her as occupied with decision procedures rather than criteria of rightness. I think that would be a misreading.
 
 
+## Backlinks
+* [[Index]]
+	* [[Susan Wolf]]
+
 <!-- #web/people -->
 
 <!-- {BearID:susan-wolf.md} -->

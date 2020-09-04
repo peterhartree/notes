@@ -8,9 +8,4 @@ Places to start:
 
 <!-- #web/people -->
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODEwODgwM119
--->
-
 <!-- {BearID:rolf-dobelli.md} -->

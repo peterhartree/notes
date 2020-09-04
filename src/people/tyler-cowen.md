@@ -50,6 +50,10 @@ Follow Tyler:
 * Some of his “cone of value” and “incommensurability” comments suggest he thinks that we shouldn’t / can’t talk about the value of a world containing our posthuman descendants.
 * There’s actually not a substantive disagreement, just a disagreement about what it’s useful to say. 
 
+## Backlinks
+* [[Index]]
+	* [[Tyler Cowen]]
+
 <!-- #web/people -->
 
 <!-- {BearID:tyler-cowen.md} -->
