@@ -9,7 +9,7 @@ The paper begins:
 
 Bostrom has also originated or developed remarkably many other ideas that seem important, such as transhumanism, information hazards, the unilateralist curse and the parliamentary approach to moral uncertainty. 
 
-In the biography on his website, he articulates a thought that has troubled me since my mid-teens:
+On his website, he articulates a thought that has troubled me since my mid-teens:
 
 > I believe it is likely that we are overlooking one or more crucial considerations: ideas or arguments that might plausibly reveal the need for not just some minor course adjustment in our endeavours but a major change of direction or priority. If we have overlooked even just one such crucial consideration, then all our best efforts might be for naught—or they might even be making things worse. 
 

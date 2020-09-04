@@ -1,22 +1,27 @@
 # People
 This is a very incomplete list of people I am grateful to have learned from. Each entry includes some remarks and suggested entry points.
 
-I’m writing these notes mostly for myself, as an exercise in appreciation. I hope they will also enable conversations, serve as useful pointers, and help people give me suggestions for who I should spend time with next.
+I’ve started writing these notes mostly for myself, as an exercise in appreciation.
 
-Warning: most entries are quick notes written in minutes, not hours. 
+I relate to a few of these people as exemplars. All of these figures are flawed in many ways, and presumably they all hold views I disagree with.
 
-If this project proves useful, I will improve the entries. You can see the changelog here, and get less than monthly updates by subscribing here. @TODO
+Most entries are quick notes written in minutes, not hours. I’m picking people fairly randomly as I feel motivated to write about them.
 
-I relate to some, but by no means all of these people as exemplars. All of these figures are flawed in many ways, and many hold views I strongly disagree with.
+If this project proves useful, I will improve the entries. 
 
-* [Tyler Cowen](tyler-cowen.md) @TODO
-* [David Pearce](F27739CB-6224-46DA-A715-8B79AE9D1EFA-54910-0003FDF46CB3749D)
+<!-- You can see the changelog here, and get less than monthly updates by subscribing here. @TODO -->
+
 * [Nick Bostrom](nick-bostrom.md) 
+* [Tyler Cowen](tyler-cowen.md)
+* [Ralph Dobelli](ralph-dobelli.md)
+* [B.J. Fogg](b-j--fogg.md)
+* [Tim Harford](tim-harford.md)
+* [David Pearce](david-pearce.md)
 * [Susan Wolf](susan-wolf.md)
 * [Robert Wright](robert-wright.md)
-* [B.J. Fogg](b-j--fogg.md)
-* [Ralph Dobelli](ralph-dobelli.md)
-* [Tim Harford](tim-harford.md)
+
+
+
 
 
 

@@ -1,48 +1,58 @@
 # Tyler Cowen
-—-
-title: Tyler Cowen
-Status: publish
-—-
+Tyler is a compelling example of the “worldly intellectual”. He has taught me about economics and how to think.
 
-Tyler is an accomplished educator, and a compelling example of the “worldly academic”. He has helped me learn about economics and how to think.
+I take several aspects of Tyler’s style (contrarianism; marginalism; incomplete elaboration) to be an expression of a core belief, that everyone is overconfident about everything. 
 
-> Uncertainty quote
+Here’s Tyler describing Stubborn Attachments:
 
-I take overconfidence to be among Tyler’s deepest fears, and I see him constantly trying to hedge against this, and to remind others that they should be more uncertain. This is part of the rationale for his contrarian style, and the “hard to pin down” mode of communication he sometimes employs.
+> People always think they’re more right on average than they are. This is true of everyone. If it’s true of everyone it has to be true of me, so *I wanted to build a set of arguments that in some way were robust to me being wrong most of the time*, and that’s hard to do. If you’re wrong most of the time, your arguments are wrong most of the time. But *is there some meta-level where there’s a claim you can make that is taking that into account in some way*.
 
-Tyler’s interviewing style is widely acclaimed. I think his “underrated or overrated” segment may still be somewhat underrated, though. I see it as part of his attempt to embody and teach the impulse to “think on the margin”.
+Tyler’s interviewing style is widely acclaimed. I think his “underrated or overrated” segment may still be somewhat underrated, though. To me, it is significantly about teaching us how to think: demonstrating the fertility of marginal thinking and the difficulty of appropriate calibration.
 
-Stubborn Attachments might be a masterpiece, in any case I suspect it is currently quite underrated in several circles that should know better. My summary: philosophers have focussed too much on wealth distribution, and not enough on wealth creation. Wealth is a necessary but not quite sufficient condition for the realisation of moral value. If you can increase the sustainable rate of wealth creation, compounding means that the long run positive effects are extremely large, dwarfing the goodness of most/all interventions that don’t target the growth rate (e.g. interventions that change the distribution of wealth that are either neutral or negative for growth rate). 
+Stubborn Attachments might be a masterpiece, in any case I suspect it is currently underrated in some circles that should know better. My summary: we tend to be too focussed on wealth distribution, and not enough on wealth creation. Wealth is a necessary, nearly sufficient condition for realising values people care about [1]. If you can increase the long run sustainable rate of wealth creation, compounding generates staggering differences in wealth a few decades down the line. This means that the positive consequences of interventions that improve the growth rate dwarf those of nearly all interventions that don’t improve the growth rate.
 
 - illustration?
 
-So, a good starting maxim is “maximise the rate of sustainable economic growth”. We should make some adjustments away from this (e.g. don’t murder, don’t torture) but we should keep in mind just how incredibly expensive such deviations are for future people, which implies trying hard to minimise the deviation. One nice feature of this maxim is that you don’t have to solve axiology, you can just trust that more wealth means more realisation of a plurality of values, and hope the philosophers get their act together in the future.
+With this in mind, it seems like a good starting maxim is: “maximise the rate of sustainable economic growth”. We should make some adjustments away from this (e.g. we can maintain an almost absolute commitment to basic human rights, e.g. “don’t murder”, “don’t torture”) but we should keep in mind just how incredibly expensive such deviations are for future people. This implies we should try much harder than we do to minimise the deviation—you can’t casually throw in your favourite causes, or some feel good concessions to the here and now, it really is just basic human rights and, well…  it’s not clear that anything else is above the bar.
 
-Tyler puts less emphasis on safety than key figures in the effective altruism movement. My impression is one significant crux is a different view about “what it’s useful to emphasise”. That’s to say, I think he basically agrees we should pile more into safety at current margins. But I think he thinks that this is not the ideal message to blast at the world: most people should focus on maximising rate of economic growth, only a minority should go into safety, and it might be very bad if safety concerns go very mainstream. There’s probably also some deeper disagreement, though—Tyler seems to think life on earth has only centuries to go, and seems to think it’s not worth betting heavily on the small probability we make it to the stars.
+One nice property of this maxim is that it somewhat relaxes the need to agree on what is valuable before we collaborate. If we take a longterm view, the classic “rising tide lifts all boats” argument really does seem to work pretty well. This hardline longtermism is unsettling insofar as it conflicts with the prioritarian intuition that says we should focus on helping people in the here and now. Tyler recognises this, but thinks that at this point, the burden of proof is on those who argue for a non-zero discount rate for welfare. A zero rate of discount should be our working assumption, and we should have the courage of conviction to act on this. It is virtuous to be haunted by the tragedy of these terrible tradeoffs, but it is not virtuous to think that patently terrible trades can be justified by strength of feeling alone [2]. 
 
-I’d like to know more about Tyler’s views on the prospect of transformative AI, and I also want to hear him speak or write about Nietzsche. The latter has almost no mentions on his blog, despite Tyler being among the planet’s most prolific readers.
+Tyler puts less emphasis on stability than key figures in the effective altruism movement. One crux seems to be a different view about what messages should be blasted into public discourse. Tyler seems to agree we should pile more resources into safety at current margins. But I think he thinks that most people should focus on maximising rate of economic growth, and only a minority should go into safety. Further: it might actually be very bad if safety concerns go very mainstream, because this could lead to a debilitating cultural pessimism. 
 
-As a lower bound, my impression is that Tyler’s efforts in the fight against COVID-19 have saved thousands of lives and millions of dollars—by speeding up information transmission via his blog, and speeding up grantmaking via Fast Grants. I would not be shocked if the true figures were millions and billions, respectively, though doling out counterfactual credits is a tricky business.
+There’s probably also a deeper crux, though—Tyler seems to be more confident than your typical EA thinker that life on earth has only centuries to go, and seems to think it’s not worth betting heavily on the small probability we make it to the stars [4]. 
 
-I’ve spent many days with Tyler over the past couple years and I hope to write more on his work soon.
+I’d like to understand more about Tyler’s views on the prospect of transformative AI, and I also want to hear him speak or write about Nietzsche. The latter has almost no mentions on his blog, despite Tyler being among the planet’s most prolific readers. 
+
+This entry has focussed on the philosophy, but Tyler’s “real world” influence over the past decade or two strikes me as fairly staggering. To take one example: my impression is that Tyler’s efforts in the fight against COVID-19 have saved thousands of lives and millions of dollars—by speeding up information transmission via his blog, and speeding up grantmaking via [Fast Grants](https://fastgrants.org). I would not be shocked if the true figures were millions and billions, respectively, though doling out counterfactual credits is a tricky business. 
+
+I hope to write more on Tyler’s work soon.
 
 Places to start:
 * [Stubborn Attachments]()
 * [SA Podcast interviews]()
+* [Be suspicious of stories]()
 
 Follow Tyler:
 * [Conversations with Tyler]()
 * [Tyler’s blog Marginal Revolution]()
+
+
+[1] I’m fuzzy on what Tyler means by “wealth” and what the relationship between “wealth” and “value” is supposed to be. @TODO
+
+[2] I’m not aware of strong consequentialist arguments for a non-zero discount rate for welfare. Rather remarkably, this seems like an area of moral philosophy that is pretty settled [3]. If one wants to fudge in some more weighting for the current generation, I think the way to do it would be to flesh out the deontological constraints. Tyler is deliberately vague on where our bar should be, e.g. he says we should spend less on the elderly, but does not give detail. To some extent, this strategic vagueness is something I admire about Tyler. One cool thing about “thinking on the margin” is that it gives the philosophically inclined an important reminder: most of the time, you actually don’t need to know exactly where you want to end up, just which direction seems robustly good to move in.  
+
+[3] Hmm… this is actually so surprising … am I missing something here? IIRC GPI has looked into this and there was that Mogensen paper, but I’m fairly sure that was a non-consequentialist argument @TODO. What happens if one takes a broader definition of “serious moral philosophy”? I can’t think of (what I’d take to be) 2nd or 3rd tier thinkers who’ve argued for this… I expect the best candidate would be the “rational arguments are just rationalisations of power” crowd. P.S. Footnote within a footnote, why not?
+
+[4] I am keen to figure out why. A few ideas:
+
+* Distrust of Pascal’s Wager type arguments.
+* Some of his “cone of value” and “incommensurability” comments suggest he thinks that we shouldn’t / can’t talk about the value of a world containing our posthuman descendants.
+* There’s actually not a substantive disagreement, just a disagreement about what it’s useful to say. 
 
 ## Backlinks
 * [[Index]]
 	* [[Tyler Cowen]]
 
 <!-- #web/people -->
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODk1NDMwNl19
--->
 
 <!-- {BearID:tyler-cowen.md} -->
