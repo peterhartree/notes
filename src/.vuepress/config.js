@@ -38,7 +38,7 @@ module.exports = {
     editLinks: false,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: false,
+    lastUpdated: 'Last updated',
     nav: [
       {
         text: 'People',
