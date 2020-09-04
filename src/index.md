@@ -15,5 +15,14 @@ features:
 - title: Podcast episodes
   details: Conversations of interest.
   button: { link: "https://thevalmy.com", text: "Listen" }
+- title: Resources
+  details: A list of pointers.
+  button: { link: "/resources/", text: "See the list" }
+- title: Useful
+  details: Productivity advice.
+  button: { link: "/useful/", text: "See the list" }
+- title: Other
+  details: Untagged items.
+  button: { link: "/untagged/", text: "See the list" }
 footer: <p>Thoughts? Send me a message!</p><p><a href="https://twitter.com/peterhartree">@peterhartree</a><br><a href="">hello@peterhartree.co.uk</a></p>
 ---

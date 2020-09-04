@@ -20,7 +20,7 @@ Places to start:
 * [Transhumanism FAQ](https://www.nickbostrom.com/views/transhumanist.pdf)
 * [The Reversal Test: Eliminating Status Quo Bias in Applied Ethics](http://www.nickbostrom.com/ethics/statusquo.pdf)
 * [Crucial Considerations](http://www.stafforini.com/blog/bostrom/)
-* [NickBostrom.com](NickBostrom.com)
+* [NickBostrom.com](https://nickbostrom.com)
 
 ## Notes
 * Add a longer list of favourite Bostrom papers, maybe with commentary.
