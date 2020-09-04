@@ -3,6 +3,9 @@ I developed a fairly strong “daily news is worse than useless” stance in my 
 
 I’ve not read anything else by Dobelli.
 
+Places to start:
+* [Against the news]
+
 <!-- #web/people -->
 
 

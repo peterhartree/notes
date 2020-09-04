@@ -35,8 +35,6 @@ Follow Tyler:
 * [Tyler’s blog Marginal Revolution]()
 
 ## Backlinks
-* [[Susan Wolf]]
-	* Susan Wolf is interesting to compare to [[Tyler Cowen]] and also [[Organize and Publish]] and also [[Matter app notes]].
 * [[Index]]
 	* [[Tyler Cowen]]
 

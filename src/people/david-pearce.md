@@ -1,4 +1,6 @@
 # David Pearce
+::Sync conflict! External update: 2020-08-31 at 16:10::
+[Click here to see original Bear note](F27739CB-6224-46DA-A715-8B79AE9D1EFA-54910-0003FDF46CB3749D)
 TESTING 	David Pearce takes the problem of suffering seriously. In 1995 he published The Hedonistic Imperative, a manifesto that outlines a vision of life based on information-sensitive gradients of bliss. Which is to say: a vision of life free from involuntary suffering, but still containing a range of hedonic experience which serves to motivate action. While our Darwinian brains operate on a range of +10 to -10 (or perhaps more like +5 to -20), Pearce suggests we could plausibly engineer transhuman minds to run on a range of +10 to +100, where the least good conscious experiences are akin to what we call peak experiences today.
 
 Sounds good, non? Sadly, most people’s first reaction is “sounds crazy”.
@@ -26,6 +28,11 @@ As Pearce is keen to stress, the future belongs to the live lovers, and even the
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE5MTIzNDU4MDldfQ==
+-->
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ0NjYxOTQzXX0=
 -->
 
 <!-- {BearID:david-pearce.md} -->
