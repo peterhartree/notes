@@ -17,7 +17,7 @@
       class="last-updated"
     >
       <span class="prefix">{{ lastUpdatedText }}:</span>
-      <span class="time">{{ lastUpdated }}</span>
+      <span class="time">{{ lastUpdated | moment("dddd, MMMM Do YYYY") }}</span>
     </div>
   </footer>
 </template>
