@@ -1,8 +1,6 @@
 # B.J. Fogg
 The Fogg Behaviour Model thinks of human behaviour as a product of motivation, ability and triggers. 
 
-![](../../BearImages/8ED21966-CF7A-4EBD-AABE-5E255731DA0C-1974-0000790EA45431AD/2673A7FD-F660-4336-A645-7B29E5CFE73E.png)
-
 Crucially: it is usually much easier to increase ability and improve the trigger regime than it is to increase motivation. So, if you want someone to do something, focus on making it easy to do and remember. This will often be sufficient! Only once you’ve made the behaviour very easy to do and remember should you consider trying to increase motivation.
 
 This insight has inspired a generation of digital product designers, for good and ill. In my own life, I’ve been applying the “make it easy and optimise triggers” insight for years and yet I’m still frequently surprised by just how much this helps me do the things I reflectively want to do.
