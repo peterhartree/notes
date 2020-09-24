@@ -23,8 +23,6 @@ Pearce’s commitment to negative utilitarianism is the reason that he has to sp
 
 As Pearce is keen to stress, the future belongs to the live lovers, and even the most cheerful axiologies agree that the minimisation of involuntary suffering is an important goal. Pearce has helped me keep in mind how urgent this problem is, and how great an improvement we could achieve with current and future technologies, if only we had the boldness of vision to try.
 
-<!-- #web/people -->
-
 [1] I take Bostrom and Ord’s “[reversal test](https://www.nickbostrom.com/ethics/statusquo.pdf)” to have exposed extreme status quo bias in bioethical discourse. Has anyone written a strong rebuttal to this paper?  @TODO
 
 [2] Transhumanism is short on attractive, non-weirdo advocates. Elon Musk is probably the best candidate, perhaps he and Grimes can develop a scalable transhuman aesthetic. Anders Sandberg is a charming weirdo. Liv Boree is an attractive former poker star who could pass for a normie. Personally I find Nick Bostrom very funny and oddly charismatic (“We already have skin enhancers... clothing”), but I understand this is a minority view. Who am I missing? 
@@ -34,5 +32,11 @@ Places to start:
 * [Panpsycast interview](https://thepanpsycast.com/panpsycast2/episode61-p1)
 * [Quora questions and answers](https://www.hedweb.com/quora/index.html)
 * [The Hedonistic Imperative](https://www.hedweb.com/)
+
+## Backlinks
+* [[Monkish independent scholar]]
+	* [[David Pearce]]
+
+<!-- #web/people -->
 
 <!-- {BearID:david-pearce.md} -->
