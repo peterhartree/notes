@@ -17,6 +17,7 @@ If this project proves useful, I will improve the entries.
 * [B.J. Fogg](b-j--fogg.md)
 * [Tim Harford](tim-harford.md)
 * [David Pearce](david-pearce.md)
+* [Brian Tomasik](brian-tomasik.md)
 * [Susan Wolf](susan-wolf.md)
 * [Robert Wright](robert-wright.md)
 
