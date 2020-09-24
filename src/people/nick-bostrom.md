@@ -7,7 +7,11 @@ The paper begins:
 
 > One way of looking at human creativity is as a process of pulling balls out of a giant urn. The balls represent possible ideas, discoveries, technological inventions. Over the course of history, we have extracted a great many balls – mostly white (beneﬁcial) but also various shades of gray (moderately harmful ones and mixed blessings). The cumulative effect on the human condition has so far been overwhelmingly positive, and may be much better still in the future (Bostrom, 2008). The global population has grown about three orders of magnitude over the last ten thousand years, and in the last two centuries per capita income, standards of living, and life expectancy have also risen. What we haven’t extracted, so far, is a black ball: a technology that invariably or by default destroys the civilization that invents it. The reason is not that we have been particularly careful or wise in our technology policy. We have just been lucky.
 
-Bostrom has also originated or developed many other ideas that seem important, such as transhumanism, the reversal test, information hazards, the unilateralist curse and the parliamentary approach to moral uncertainty. 
+Bostrom has also originated or developed many other ideas that seem important, such as transhumanism, the reversal test, information hazards, the unilateralist curse and the parliamentary approach to moral uncertainty.
+
+He’s also quite funny. E.g.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yd9cf_vLviI?start=31&amp;end=325" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 On his website, he articulates a thought that has troubled me since my mid-teens:
 
