@@ -45,11 +45,15 @@ module.exports = {
         link: '/people/'
       },
       {
+        text: 'Fragments',
+        link: '/fragments/'
+      },
+      {
         text: 'Journal',
         link: 'https://docs.google.com/document/d/1l3FNWlNUzcpXtend9wrGc3PWSQDj9AwgWcwmOhRsYRY/edit#'
       },
       {
-        text: 'Audio',
+        text: 'Podcasts',
         link: 'https://thevalmy.com'
       },
       /*
