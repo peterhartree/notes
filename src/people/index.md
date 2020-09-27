@@ -11,15 +11,15 @@ If this project proves useful, I will improve the entries.
 
 <!-- You can see the changelog here, and get less than monthly updates by subscribing here. @TODO -->
 
-* [Nick Bostrom](nick-bostrom.md) 
-* [Tyler Cowen](tyler-cowen.md)
-* [Rolf Dobelli](rolf-dobelli.md)
-* [B.J. Fogg](b-j--fogg.md)
-* [Tim Harford](tim-harford.md)
-* [David Pearce](david-pearce.md)
-* [Brian Tomasik](brian-tomasik.md)
-* [Susan Wolf](susan-wolf.md)
-* [Robert Wright](robert-wright.md)
+* [Nick Bostrom](/people/nick-bostrom.md) 
+* [Tyler Cowen](/people/tyler-cowen.md)
+* [Rolf Dobelli](/people/rolf-dobelli.md)
+* [B.J. Fogg](/people/b-j--fogg.md)
+* [Tim Harford](/people/tim-harford.md)
+* [David Pearce](/people/david-pearce.md)
+* [Brian Tomasik](/people/brian-tomasik.md)
+* [Susan Wolf](/people/susan-wolf.md)
+* [Robert Wright](/people/robert-wright.md)
 
 
 

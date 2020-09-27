@@ -18,10 +18,6 @@ Places to start:
 * [Avoid triggers and make it harder](https://medium.com/@peterhartree/avoid-triggers-and-make-it-harder-c2b1a94d01c4)
 * Book: Tiny Habits (I’ve not read this, but I expect it’s good)
 
-## Backlinks
-* [[Index]]
-	* [[B.J. Fogg]]
-
 <!-- #web/people -->
 
 <!-- {BearID:b-j--fogg.md} -->
