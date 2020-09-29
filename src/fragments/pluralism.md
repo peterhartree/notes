@@ -1,5 +1,5 @@
 # Pluralism
-My engagement with Nietzsche and other fragments of continental philosophy may have made me unduly pessimistic about the value of theory during my twenties. Yet while I’m trending more optimistic about explicit reasoning, properly contextualised, I remain skeptical that the correct theory of what matters will be simple. 
+My engagement with Nietzsche and other fragments of continental philosophy may have made me unduly pessimistic about the value of theory during my twenties. Yet while I’m trending more optimistic about explicit reasoning, properly contextualised, I’m still skeptical that the correct theory of value will be simple. 
 
 There may be useful theories of value that are simplifications. But the claim that it all comes down to the pleasure/pain axis... I’m tempted to dismiss this with cries of “physics envy”, though I know I should try harder than that (#todo). Yes, if we can take anything as axiomatic, it might be “extreme involuntary suffering is bad”. But... I think our prior in axiology should be like our prior in any other science: try to reduce to fundamental parts, but don't expect to get down to one! The strangeness of expecting a fundamental singularity in axiology is sometimes under-appreciated, perhaps especially by those who come into moral philosophy with a quantitative background. 
 
