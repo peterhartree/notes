@@ -3,7 +3,7 @@ I read The Moral Animal in my mid-teens. It was a great introduction to evolutio
 
 Some years later I read Nonzero. The book was among my first exposures to the idea that managing risks from increasingly powerful and democratised technological capabilities is among the most important challenges of the 21st century.
 
-In my early twenties I took Wright’s “Buddhism and Modern Psychology” MOOC, and I read “Why Buddhism is True” shortly after it came out. Discussing his interest in Buddhism, I once heard Wright say that after The Moral Animal, he felt like he had “seen the truth but not the way”. I had a similar experience. Wright’s work, combined with that of Sam Harris and Headspace Andy, helped cause me to start a daily meditation practice, and eventually convinced me to try a silent retreat (“extreme sports for the mind”). I found the retreat experience extremely valuable and now do them annually.
+In my early twenties I took Wright’s “Buddhism and Modern Psychology” MOOC, and I read “Why Buddhism is True” shortly after it came out. Discussing his interest in Buddhism, I once heard Wright say that after The Moral Animal, he felt like he had “seen the truth but not the way”. I had a similar experience. Wright’s work, combined with that of Sam Harris and Headspace Andy, helped cause me to start a daily meditation practice, and eventually convinced me to try a silent retreat (“extreme sports for the mind”, in Wright’s formulation). I found the retreat experience valuable and now do a 4-7 day retreat at least once per year.
 
 Wright has been a pioneer of video blogging and podcasting since the mid 2000s. I’ve enjoyed countless interviews on his website—Strawson on pansychism comes to mind, as does Cowen and Singer.
 
