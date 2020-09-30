@@ -18,7 +18,7 @@ features:
 - title: Podcast episodes
   details: Conversations of interest.
   button: { link: "https://thevalmy.com", text: "Listen" }
-footer: <p>Thoughts? Send me a message!</p><p><a href="https://twitter.com/peterhartree">@peterhartree</a><br><a href="">hello@peterhartree.co.uk</a></p>
+footer: <p>Thoughts? Send me a message!</p><p><a href="https://twitter.com/peterhartree">@peterhartree</a><br><a href="">hello@peterhartree.co.uk</a></p><p><strong>Wondering what's new?</strong><br> In the <a href="https://github.com/peterhartree/notes/commits/master">commit history</a>, text changes are prefixed with a forward slash. <br>I'll make a better interface soon.</p>
 ---
 
 <!--
