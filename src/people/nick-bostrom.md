@@ -13,11 +13,11 @@ He’s also quite funny. E.g.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yd9cf_vLviI?start=31&amp;end=325" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-On his website, he articulates a thought that has troubled me since my mid-teens:
+On his biography, he articulates a thought that has troubled me since my mid-teens:
 
 > I believe it is likely that we are overlooking one or more crucial considerations: ideas or arguments that might plausibly reveal the need for not just some minor course adjustment in our endeavours but a major change of direction or priority. If we have overlooked even just one such crucial consideration, then all our best efforts might be for naught—or they might even be making things worse. 
 
-Bostrom has dedicated his academic career to helping us discover and appreciate more crucial considerations for the future of humanity. I wish more of our best intellectuals would think in similarly ambitious terms.
+Bostrom has dedicated his career to helping us discover and appreciate more crucial considerations for the future of humanity. I wish more of our best intellectuals would think in similarly ambitious terms.
 
 Places to start:
 * [Vulnerable World Hypothesis](https://nickbostrom.com/papers/vulnerable.pdf) (or [this podcast discussion](https://www.listennotes.com/podcasts/making-sense-with/151-will-we-destroy-the-future-OZju5zDEolh/))

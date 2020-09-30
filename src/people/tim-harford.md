@@ -1,9 +1,9 @@
 # Tim Harford
 Outstanding public intellectual, educator, storyteller.
 
-Tim has helped me understand the modern economy, in particular to appreciate the miracle of market pricing.
+Tim has helped me understand the modern economy, in particular to appreciate the miracle of market mechanisms as a means of co-ordination and resource allocation. 	
 
-His patient investigation of implausible claims and interesting questions has helped tune my instincts for what good and bad statistical reasoning looks like. With More or Less, he has performed a heroic public service with skill and charm for more than a decade, patiently de-bunking implausible claims made in the public sphere by journalists, politicians, activists and academics.
+With More or Less, his radio show, he has performed a heroic public service with skill and charm for more than a decade, patiently de-bunking implausible claims made in the public sphere by journalists, politicians, activists and academics. His patient investigation of implausible claims and interesting questions has helped tune my instincts for what good and bad statistical reasoning looks like. 
 
 Tim is one of several figures that helped me recognise that consuming daily news actively impairs your understanding of the world. 
 

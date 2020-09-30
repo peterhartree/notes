@@ -1,11 +1,11 @@
 # Brian Tomasik
-/Content warning: some of Tomasik’s essays, including some of those I link to here, contain descriptions of extreme suffering./
+*Content warning: some of Tomasik’s essays, including some of those I link to here, contain descriptions of extreme suffering.*
 
 Brian Tomasik is a [Monkish independent scholar](/fragments/monkish-independent-scholar.md).
 
 I’ve read a small fraction of Tomasik’s output (mostly the essays on ethics) and I don’t have a great feel for his overall worldview, despite his attempt to summarise it [here](https://reducing-suffering.org/summary-beliefs-values-big-questions/). One thing I’m confused about is that his summary suggests he has very high subjective confidence in several beliefs about value and meta-ethics. I can’t really see how anyone could get to such high confidence on these topics, so I feel like I must be missing something, or else we have some big differences on epistemology that I don’t understand. 
 
-Brian says he’s a moral antirealist who subscribes to a version of negative utilitarianism that is focussed on extreme suffering. I’m not sure what his argument for the negative focus ultimately boils down to: he presents it as a personal preference, which he provides arguments he hopes will reveal or cultivate that preference in others. In [On the horror of suffering] he writes:
+Brian says he’s a moral antirealist who subscribes to a version of negative utilitarianism that is focussed on extreme suffering. I’m not sure what his argument for the negative focus ultimately boils down to: he presents it as a personal preference, which he provides arguments he hopes will reveal or cultivate that preference in others. In [The horror of suffering](https://reducing-suffering.org/the-horror-of-suffering/) he writes:
 
 > Several of my friends think I'm weird to be so parochial about reducing suffering and not take a more far-sighted view of my idealized moral values. They tend to shrug off pain, saying it's not so bad. They think it's extremely peculiar that I don't want to be open to changing my moral perspective and coming to realize that suffering isn't so important and that other things matter comparably.
 
@@ -25,7 +25,7 @@ In the same essay, he writes:
 
 This seems true, but also true for extreme positive experiences. I understand and somewhat share the “maybe there’s an asymmetry here” intuition, but I’m way more uncertain about it than Tomasik seems to be, and much more fundamentally suspicious of “no saying” views.
 
- Tomasik suggests, reasonably, that those who have not experienced extreme suffering cannot understand it. But the same seems true for those who have not experienced extreme happiness.
+Tomasik suggests, reasonably, that those who have not experienced extreme suffering cannot understand it. But the same seems true for those who have not experienced extreme happiness.
 
 Anyway, a bit like David Pearce, I appreciate Tomasik as someone who has dedicated a large chunk of his life to thinking and writing and screaming ([Screamers](/fragments/screamers.md)) about the problem of suffering in public. I share the worry that we lucky ones tend towards obliviousness and complacency about the problem that has terrible consequences. Unlike them, I’m a “life lover”, with a strong intuition about the value of [Cheerful axiology](/fragments/cheerful-axiology.md).
 
