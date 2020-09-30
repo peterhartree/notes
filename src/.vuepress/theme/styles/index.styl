@@ -95,13 +95,22 @@ kbd
 
 blockquote
   font-size 1rem
-  color #999;
   border-left .2rem solid #dfe2e5
   margin 1rem 0
   padding .25rem 0 .25rem 1rem
 
   & > p
     margin 0
+
+  cite {
+    display: block
+    font-style: normal
+    font-weight: 700
+
+    &:before {
+      content: "– "
+    }
+  }
 
 ul, ol
   padding-left 1.2em
