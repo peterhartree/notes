@@ -14,8 +14,11 @@ I’m not sure what to make of this…. I need to read more of Deutsch’s stuff
 Some people despair at the lack of consensus in moral philosophy. But there are some reasons to be optimistic: there is at least some agreement among most of our least bad theories. And, as Parfit pointed out, the field of non-religious ethics is actually quite young [4]. 
 
 [1] https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill
+
 [2] Luckily, I don’t think you need a clear and settled story about where you want to end up in order to have a view about what a good next step might be. The claim that we should continue our efforts to reduce extreme involuntary suffering seems uncontroversial. The claim that we should put more effort into reducing catastrophic and existential risk (“try to keep the party going, and worth attending”) seems true on all of our least bad moral theories. Our least bad theories disagree on exactly what the relative priorities should be, but there is some significant agreement on what the direction of travel should be.
+
 [3] https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9jNGRiMjQ0L3BvZGNhc3QvcnNz/episode/ZDkxMGI0M2YtZGQ0NS00YzA5LWIzYjgtNWVhZjEwYWYwZjhm
+
 [4] Reasons and Persons, final chapter.
 
 
