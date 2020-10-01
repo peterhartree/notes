@@ -18,6 +18,7 @@ If this project proves useful, I will improve the entries.
 * [Tim Harford](/people/tim-harford.md)
 * [David Pearce](/people/david-pearce.md)
 * [Brian Tomasik](/people/brian-tomasik.md)
+* [Bernard Williams](/people/bernard-williams.md)
 * [Susan Wolf](/people/susan-wolf.md)
 * [Robert Wright](/people/robert-wright.md)
 
@@ -28,4 +29,4 @@ If this project proves useful, I will improve the entries.
 
 <!-- #web/people -->
 
-<!-- {BearID:index.md} -->
+<!-- {BearID:people.md} -->
