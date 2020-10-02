@@ -1,5 +1,5 @@
 # Altruism
-Altruism is a tricky concept. Some issues:
+Altruism is a tricky idea. Some issues:
 
 1. It has a “moral purity” association, where complete impartiality (viz. lack of self-interest) is expected, at least in pretence. Some issues with this:
 	1. Insofar as you’ve internalised pro-social values, it’s not clear where self-interest ends and altruism begins.
@@ -17,9 +17,9 @@ Altruism is a tricky concept. Some issues:
 				2. The “progress studies” crowd seem poised to take up some of the slack.
 		3. A strong focus on preventing the bad may lead us to forget what is good, to develop a habit of rejection, even to fall out of love with life. Downer. 👎
 
-3. It carries a “personal sacrifice is good” connotation, which encourages us to focus on our level of personal sacrifice rather than the consequences of our actions. The altruism worth aspiring to is not centrally about you and your willingness to sacrifice: it’s about you being as useful as you can be.  
+3. It carries a “personal sacrifice is good” connotation, which encourages us to focus on our level of personal sacrifice rather than the consequences of our actions. The altruism that matters is not centrally about you and your willingness to sacrifice: it’s about you being as useful as you can be.  
 
-4. People who make a show of presenting themselves as altruistic often strike me as graceless, naive or even suspicious. I’m not sure why.
+4. People who make a show of presenting themselves as altruistic often seem graceless, naive or even suspicious. I’m not sure why.
 
 Overall I somewhat regret that the word “altruism” appears in the name of the “effective altruism” movement, though I’m not aware of other names on the long list that were better. “Super badass do gooders”, anyone?
 
