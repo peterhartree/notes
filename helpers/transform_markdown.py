@@ -1,7 +1,7 @@
 import os
 import fileinput
 
-baseDirectory = "../src/"
+baseDirectory = "src/"
 directories = ["people","fragments","useful"]
 
 # -----

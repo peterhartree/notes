@@ -3,23 +3,23 @@
 #
 # @TODO I think we can skip the import step, because I'm not using Dropbox
 # for editing notes at the moment.
-python3 bear-notes-to-markdown/bear_export_sync.py --out ~/Dropbox/_Notes --backup '../Backup'
+python3 helpers/bear-notes-to-markdown/bear_export_sync.py --out ~/Dropbox/_Notes --backup '../Backup'
 
 # Add backlinks to notes. Then sync markdown back into Bear.
 # @TODO Fix this and re-enable.
 # note-link-janitor ~/Dropbox/_Notes
 # @TODO We only need to sync, there's no need to run the export again.
-# python3 bear-notes-to-markdown/bear_export_sync.py --out ~/Dropbox/_Notes --backup '../Backup'
+# python3 helpers/bear-notes-to-markdown/bear_export_sync.py --out ~/Dropbox/_Notes --backup '../Backup'
 
 # Copy markdown notes from Dropbox folder into web repository
-cp -R ~/Dropbox/_Notes/web/. ../src
+cp -R ~/Dropbox/_Notes/web/. src
 
 # Run several custom transforms on the exported markdown files
-python3 transform_markdown.py
+python3 helpers/transform_markdown.py
 
 # -----
 # Rename "people" file to index.md
 # @TODO Refactor
 # -----
-mv ../src/people/people.md ../src/people/index.md
-mv ../src/fragments/fragments.md ../src/fragments/index.md
+mv src/people/people.md src/people/index.md
+mv src/fragments/fragments.md src/fragments/index.md
