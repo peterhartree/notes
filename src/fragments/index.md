@@ -6,6 +6,7 @@ Comments, pointers, corrections greatly appreciated.
 * [Altruism](/fragments/altruism.md)
 * [Catastrophic vs existential risk](/fragments/catastrophic-vs-existential-risk.md)
 * [Cheerful axiology](/fragments/cheerful-axiology.md)
+* [Consequentialism](/fragments/consequentialism.md)
 * [The worst moral theory, except for all the others we’ve tried](/fragments/the-worst-moral-theory-except-for-all-the-others-we’ve-tried.md)
 * [Monkish independent scholar](/fragments/monkish-independent-scholar.md)
 * [Pluralism](/fragments/pluralism.md)
@@ -13,6 +14,7 @@ Comments, pointers, corrections greatly appreciated.
 * [Screamers](/fragments/screamers.md) 
 * [Value, reasons, self](/fragments/value-reasons-self.md)
 
+
 <!-- #web/fragments -->
 
-<!-- {BearID:index.md} -->
+<!-- {BearID:fragments.md} -->
