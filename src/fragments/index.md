@@ -1,5 +1,7 @@
 # Fragments
-Notes to self, writing to think, discover, remember. Usually less than half-baked, often wrong. Mainly of interest to my future self, but maybe of interest to those who wonder how I’m thinking about things. Not suitable for general consumption, not crawled by Google. Comments greatly appreciated.
+Notes to self, writing to think, discover, remember. Usually less than half-baked, often wrong. Mainly of interest to my future self, but maybe of interest to those who wonder how I’m thinking about things. Not recommended for general consumption (read something by [these people](/people/) instead!).
+
+Comments, pointers, corrections greatly appreciated.
 
 * [Altruism](/fragments/altruism.md)
 * [Catastrophic vs existential risk](/fragments/catastrophic-vs-existential-risk.md)
@@ -9,6 +11,7 @@ Notes to self, writing to think, discover, remember. Usually less than half-bake
 * [Pluralism](/fragments/pluralism.md)
 * [Positive hedonic experience](/fragments/positive-hedonic-experience.md)
 * [Screamers](/fragments/screamers.md) 
+* [Value, reasons, self](/fragments/value-reasons-self.md)
 
 <!-- #web/fragments -->
 
