@@ -45,7 +45,9 @@ for directory in directories:
   filenames = os.listdir(baseDirectory + directory)
 
   for filename in filenames:
-    os.rename(os.path.join(baseDirectory + directory, filename), os.path.join(baseDirectory + directory,filename.replace(" ", "-").lower()))
+    updatedFilename = filename.replace(" ", "-").lower()
+    updatedFilename = updatedFilename.replace(",", "")
+    os.rename(os.path.join(baseDirectory + directory, filename), os.path.join(baseDirectory + directory, updatedFilename))
 
 # -----
 # Add links to markdown files

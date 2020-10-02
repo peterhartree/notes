@@ -30,4 +30,4 @@ Some people despair at the lack of consensus in moral philosophy. But there are 
 
 <!-- #web/fragments -->
 
-<!-- {BearID:the-worst-moral-theory,-except-for-all-the-others-we’ve-tried.md} -->
+<!-- {BearID:the-worst-moral-theory-except-for-all-the-others-we’ve-tried.md} -->
