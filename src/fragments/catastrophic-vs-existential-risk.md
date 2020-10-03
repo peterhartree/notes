@@ -21,21 +21,19 @@ How big is the difference between (2) and (3)? Good question. For now, it’s en
 
 Impartial axiology should inform our practical priorities—explicitly or not—but it does not determine them. To actually decide what to do, we need to look at how the world is, and factor in our partial values to some degree.
 
-In what follows, when I say “global catastrophic risk”, just assume I mean any catastrophe that causes the death of >1% of the human population (but that does not cause the end of civilisation). A focus on deaths may omit some important catastrophic risks but we can ignore this for now.
+In what follows, when I say “global catastrophic risk”, just assume I mean any catastrophe that causes the death of >1% of the human population (but that does not cause the end of civilisation). A focus on deaths may omit some important catastrophic risks but we can ignore this here.
 
 ## Catastrophic risk: underrated or overrated?
-Right now, my impression is that the effective altruism community allocates more resources to working on existential risk than to catastrophic risk. @TODO - I should actually try to estimate this…
+I wonder if some people who were rightly impressed by Parfit’s arguments about the axiology, and Bostrom’s calculations about the potential size of the future, have incorrectly given these considerations slightly too much weight when making their lists of practical priorities. 
 
-The community may have the resource allocation roughly right, but I’ve not seen much discussion of what the allocation should be (caveat: I have not yet looked all that hard, so there could be some great discussions that I’ve missed; I’d appreciate pointers). But I’m coming into this with a sense that catastrophic risks are somewhat underrated by the EA community compared to existential risks.
-
-If that were true, what might explain it? Well, I wonder if some people have been slightly over-impressed by Parfit’s arguments about the axiology, and Bostrom’s calculations about the potential size of the future, and given this stuff too much weight when composing their lists of practical priorities. 
-
-Below I’ll list out some consideration that might push us to think the difference in practical importance between (2) and (3) is much smaller than the difference suggested by consideration of the axiology and the size of the future.
+Below I’ll list out some considerations that might push us to think the difference in practical importance between (2) and (3) is much smaller than the difference suggested by consideration of the axiology and the size of the future.
 
 ### Empirical considerations
 * Global catastrophes seem very likely to occur this century. Sadly, “very” here means at least 80%, perhaps the best estimate is even higher.
-	* In the 20th century, the Spanish Flu, WW1 and WW2 each caused the deaths of more than 1% of the human population. @TODO - double-check
-	* If we narrow the definition of global catastrophe a bit, such that the lower bound is “5% of the human population”, we’d probably still end up with a probability >40% (bear in mind that Toby Ord estimates total existential risk within next 100 years at 1/6).
+	* In the 20th century, the Spanish Flu, WW1 and WW2 each caused the deaths of more than 1% of the human population.
+	* If we narrow the definition of global catastrophe a bit, such that the lower bound is “5% of the human population”, we’d probably still end up with a probability well over 50%.
+		* Bear in mind that Toby Ord forecasts total existential risk within next 100 years at 1/6, even after taking into account his best guesses about what humanity will do to mitigate them.
+	* Probability estimates about catastrophic risk seem more robust than the existential risk estimates (and if they’re not, a path to make them more robust seems within easy reach).
 * Catastrophic risks may be more tractable than existential risks (e.g. it’s easier to get people to care; mechanisms and feedback loops somewhat easier to understand).
 * Our ability to recover from catastrophes is very uncertain. What seem like “merely” catastrophic events may actually be existential. Global catastrophes such as a great power war or extreme climate change may be among the largest “existential risk factors”.
 * Timing: you might think that better opportunities to work on existential risk lie in the future, and that we already have plenty of resources to spend on them (such that saving to spend on existential risk mitigation seems less attractive than spending on catastrophic risk mitigation).
@@ -49,11 +47,17 @@ Below I’ll list out some consideration that might push us to think the differe
 		* @TODO I have Gigarenzer / Taleb evolutionary rationality stuff in mind here; flesh this out
 	* There are [various reasons](https://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/) it’s unwise to take expected value calculations literally.
 * Moral uncertainty: various uncertainties about axiology and normative ethics might substantially narrow the gap between (2) and (3), though it seems unlikely they would flip them. Some candidates: 
-	* Impartial axiology probably does not determine ideal action: there is surely some level at which we should bear our partial values in mind (some notes on this in [Value, reasons, self](/fragments/value-reasons-self.md)). 
+	* Impartial axiology probably does not determine ideal action: there is surely some level at which we should bear our partial values in mind (some notes on this in [Value, reasons, self](/fragments/value-reasons-self.md)). Seems this could shift things a bunch.
 	* Person-affecting views may have something to them.
-	* Proximity may actually count for something, despite the apparently striking consensus among professional philosophers.
+	* Proximity in space or time may actually count for something, despite the apparently striking consensus among professional philosophers.
 	* There might be something morally wrong about simple expected value calculation.
 * Personal reasons: we are the 90%!
+
+Related discussion:
+* https://blog.givewell.org/2015/08/13/the-long-term-significance-of-reducing-global-catastrophic-risks/
+* What else? @todo search.
+
+
 
 ## Appendix 1: just how large is the difference in badness between (2) and (3)? 
 For the empirical side of this question, it seems the key thing is to make some estimates about how much value there could be in the future. To get a rough handle on that, we could estimate how many descendants we could potentially have, then subtract 0.8 billion from that. 
