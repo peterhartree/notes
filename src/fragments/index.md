@@ -1,5 +1,5 @@
 # Fragments
-Notes to self, writing to think, discover, remember. Usually less than half-baked, often wrong. Mainly of interest to my future self, but maybe of interest to those who wonder how I’m thinking about things. Not recommended for general consumption (read something by [these people](/people/) instead!).
+Notes to self, writing to think, discover, remember. Usually less than half-baked. Mainly of interest to my future self, but also to those who wonder how I’m thinking about things. Not recommended for general consumption (read something by [these people](/people/) instead!).
 
 Comments, pointers, corrections greatly appreciated.
 
@@ -11,6 +11,7 @@ Comments, pointers, corrections greatly appreciated.
 * [Monkish independent scholar](/fragments/monkish-independent-scholar.md)
 * [Pluralism](/fragments/pluralism.md)
 * [Positive hedonic experience](/fragments/positive-hedonic-experience.md)
+* [Reason, tradition, decentralisation](/fragments/reason-tradition-decentralisation.md)
 * [Screamers](/fragments/screamers.md) 
 * [Value, reasons, self](/fragments/value-reasons-self.md)
 
