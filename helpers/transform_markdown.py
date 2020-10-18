@@ -2,7 +2,7 @@ import os
 import fileinput
 
 baseDirectory = "src/"
-directories = ["people","fragments","useful"]
+directories = ["", "people","fragments","useful"]
 
 # -----
 # Add links to markdown file
@@ -31,7 +31,7 @@ def parse_yaml(filedata):
   # except the first line of the file (the title).
 
   file_parts = filedata.split('---')
-  if len(file_parts) > 1:
+  if len(file_parts) > 2:
     yaml_block = file_parts[1]
     filedata = file_lines[0] + file_parts[2]
 
@@ -61,34 +61,43 @@ note_titles_to_paths = []
 
 for directory in directories:
   for filename in os.listdir(baseDirectory + directory):
-    with open(os.path.join(baseDirectory + directory, filename), 'r', encoding="utf8", errors='ignore') as f:
-      lines = f.read().splitlines()
-      last_line = lines[-1]
-      last_line = last_line.replace('<!-- {BearID:', '')
-      last_line = last_line.replace('} -->', '')
-      note_id = last_line.strip()
-      note_ids_to_filenames.append([note_id, filename])
-      note_title = lines[0].replace('# ', '')
-      note_titles_to_paths.append([note_title, "/" + directory + "/" + filename])
+    if filename.endswith(".md"):
+      with open(os.path.join(baseDirectory + directory, filename), 'r', encoding="utf8", errors='ignore') as file :
+        filedata = file.read()
+        # Verify that this is a Bear generated markdown file.
+        # (It might be a static markdown file, and we don't want to process that)
+        if "{BearID:" in filedata:
+          lines = filedata.splitlines()
+          last_line = lines[-1]
+          last_line = last_line.replace('<!-- {BearID:', '')
+          last_line = last_line.replace('} -->', '')
+          note_id = last_line.strip()
+          note_ids_to_filenames.append([note_id, filename])
+          note_title = lines[0].replace('# ', '')
+          note_titles_to_paths.append([note_title, "/" + directory + "/" + filename])
 
 for directory in directories:
   for filename in os.listdir(baseDirectory + directory):
+    if filename.endswith(".md"):
+      # Read in the file
+      with open(os.path.join(baseDirectory + directory, filename), 'r', encoding="utf8", errors='ignore') as file :
+        filedata = file.read()
 
-    # Read in the file
-    with open(os.path.join(baseDirectory + directory, filename), 'r', encoding="utf8", errors='ignore') as file :
-      filedata = file.read()
+      # Verify that this is a Bear generated markdown file.
+      # (It might be a static markdown file, and we don't want to process that)
+      if "{BearID:" in filedata:
 
-    # -----
-    # Add links to markdown files
-    # -----
-    filedata = add_links(filedata, note_ids_to_filenames, note_titles_to_paths)
+        # -----
+        # Add links to markdown files
+        # -----
+        filedata = add_links(filedata, note_ids_to_filenames, note_titles_to_paths)
 
 
-    # -----
-    # Parse YAML if present
-    # -----
-    filedata = parse_yaml(filedata)
+        # -----
+        # Parse YAML if present
+        # -----
+        filedata = parse_yaml(filedata)
 
-    # Write the file out again
-    with open(os.path.join(baseDirectory + directory, filename), 'w') as file:
-      file.write(filedata)
+        # Write the file out again
+        with open(os.path.join(baseDirectory + directory, filename), 'w') as file:
+          file.write(filedata)
