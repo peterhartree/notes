@@ -17,6 +17,7 @@ python3 helpers/bear-notes-to-markdown/bear_export_sync.py --out ~/Dropbox/_Note
 
 trash -rf src/fragments
 trash -rf src/people
+trash -rf src/useful
 
 # Copy markdown notes from Dropbox folder into web repository
 cp -R ~/Dropbox/_Notes/web/. src
@@ -30,3 +31,4 @@ python3 helpers/transform_markdown.py
 # -----
 mv src/people/people.md src/people/index.md
 mv src/fragments/fragments.md src/fragments/index.md
+mv src/useful/useful.md src/useful/index.md
