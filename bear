@@ -11,16 +11,21 @@ python3 helpers/bear-notes-to-markdown/bear_export_sync.py --out ~/Dropbox/_Note
 # @TODO We only need to sync, there's no need to run the export again.
 # python3 helpers/bear-notes-to-markdown/bear_export_sync.py --out ~/Dropbox/_Notes --backup '../Backup'
 
-# Move all notes in the web repository into Mac OS X trash.
+# Move all notes and note images in the web repository into Mac OS X trash.
 # If we don't do this, we'll end up with duplicates and old files.
 # If you don't have the `trash` utility: `brew install trash`
 
 trash -rf src/fragments
 trash -rf src/people
 trash -rf src/useful
+trash -rf src/images
 
 # Copy markdown notes from Dropbox folder into web repository
 cp -R ~/Dropbox/_Notes/web/. src
+
+# Copy note images from Dropbox folder into web repository
+# @TODO This copies ALL images, even from unpublished notes.
+cp -R ~/Dropbox/_Notes/BearImages/. src/images
 
 # Run several custom transforms on the exported markdown files
 python3 helpers/transform_markdown.py

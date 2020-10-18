@@ -3,6 +3,7 @@ import fileinput
 
 baseDirectory = "src/"
 directories = ["", "people","fragments","useful"]
+imageDirectory = "images/"
 
 # -----
 # Add links to markdown file
@@ -37,6 +38,19 @@ def parse_yaml(filedata):
 
   return filedata
 # -----
+
+# -----
+# Fix image paths
+# -----
+def fix_image_paths(filedata, directory, imageDirectory):
+  if directory != "":
+    imageDirectory = "../" + imageDirectory
+
+  filedata = filedata.replace("../../BearImages/", imageDirectory)
+
+  return filedata
+# -----
+
 
 # -----
 # Replace spaces with underscores in filenames.
@@ -92,6 +106,10 @@ for directory in directories:
         # -----
         filedata = add_links(filedata, note_ids_to_filenames, note_titles_to_paths)
 
+        # -----
+        # Fix image paths
+        # -----
+        filedata = fix_image_paths(filedata, directory, imageDirectory)
 
         # -----
         # Parse YAML if present
