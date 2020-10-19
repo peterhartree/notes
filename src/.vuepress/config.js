@@ -45,8 +45,16 @@ module.exports = {
         link: '/people/'
       },
       {
-        text: 'Fragments',
-        link: '/fragments/'
+        text: 'Useful',
+        link: '/useful/'
+      },
+      {
+        text: 'Miscellaneous',
+        link: '/misc/'
+      },
+      {
+        text: 'Inbound',
+        link: '/inbound.html'
       },
       {
         text: 'Journal',
