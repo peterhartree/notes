@@ -10,6 +10,9 @@ features:
   details: A list of people I've learned from.
   button: { link: "/people/", text: "See the list" }
 - title: Fragments
+- title: Useful
+  details: Practical advice.
+  button: { link: "/useful/", text: "See the list" }
   details: Notes to self, and sometimes others.
   button: { link: "/fragments/", text: "See the list" }
 - title: Journal
