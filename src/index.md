@@ -15,6 +15,9 @@ features:
   button: { link: "/useful/", text: "See the list" }
   details: Notes to self, and sometimes others.
   button: { link: "/fragments/", text: "See the list" }
+- title: Inbound
+  details: What I'm reading and listening to.
+  button: { link: "/inbound.html", text: "Read more" }
 - title: Journal
   details: Daily updates from my sabbatical.
   button: { link: "https://docs.google.com/document/d/1l3FNWlNUzcpXtend9wrGc3PWSQDj9AwgWcwmOhRsYRY/edit#", text: "Read the journal" }
