@@ -9,6 +9,6 @@ One suggestion that this is right: the people who go for the simple theories ten
 
 I sometimes wonder whether, if you really grilled the value monists, you’d find that they were presenting a theory they hoped to be a useful simplification, rather than one they thought likely to be true. And just to be clear, I’m all in favour of useful simplifications, so long as we remain wary about letting them blind us to the more complicated reality.
 
-<!-- #web/fragments -->
+<!-- #web/misc# -->
 
 <!-- {BearID:pluralism.md} -->

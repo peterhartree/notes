@@ -34,6 +34,6 @@ Apparently, Parfit was “alarmed by” subjectivism in the views of people he r
 
 [1] https://www.thebritishacademy.ac.uk/documents/890/19-Memoirs-03-Parfit.pdf
 
-<!-- #web/fragments -->
+<!-- #web/misc# -->
 
 <!-- {BearID:value-reasons-self.md} -->

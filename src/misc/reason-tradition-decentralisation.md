@@ -22,6 +22,6 @@ https://www.sciencedirect.com/science/article/pii/S0016328720300720?via%3Dihub
 
 > educated Westerners are trained their entire lives to think that behaviors must be underpinned by explicable and declarable reasons, so we are more likely to have them at the ready and feel more obligated to supply “good” reasons upon request. Saying “it’s our custom” is not considered a good reason. The pressure for an acceptable, clear, and explicit reason for doing things is merely a social norm common in Western populations, which creates the illusion (among Westerners) that humans generally do things based on explicit causal models and clear reasons. They often do not.
 > <cite>Joseph Henrich</cite>
-<!-- #web/fragments -->
+<!-- #web/misc -->
 
 <!-- {BearID:reason-tradition-decentralisation.md} -->

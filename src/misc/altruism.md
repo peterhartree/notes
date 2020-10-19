@@ -23,6 +23,6 @@ Altruism is a tricky idea. Some issues:
 
 Overall I somewhat regret that the word “altruism” appears in the name of the “effective altruism” movement, though I’m not aware of other names on the long list that were better. “Super badass do gooders”, anyone?
 
-<!-- #web/fragments -->
+<!-- #web/misc# -->
 
 <!-- {BearID:altruism.md} -->

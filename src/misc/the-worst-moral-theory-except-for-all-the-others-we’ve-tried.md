@@ -1,5 +1,5 @@
 # The worst moral theory, except for all the others we’ve tried
-Winston Churchill once told the British parliament [1]:
+Churchill once told the British parliament [1]:
 
 > All this idea of a group of super men and super-planners, such as we see before us, “playing the angel,” as the French call it, and making the masses of the people do what they think is good for them, without any check or correction, is a violation of democracy. Many forms of Government have been tried, and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy is the worst form of Government except all those other forms that have been tried from time to time […]
 
@@ -28,6 +28,6 @@ Some people despair at the lack of consensus in moral philosophy. But there are 
 * I really want to spend a couple weeks close reading Parfit.
 
 
-<!-- #web/fragments -->
+<!-- #web/misc# -->
 
 <!-- {BearID:the-worst-moral-theory-except-for-all-the-others-we’ve-tried.md} -->

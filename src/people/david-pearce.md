@@ -34,7 +34,7 @@ Places to start:
 * [The Hedonistic Imperative](https://www.hedweb.com/)
 
 ## Backlinks
-* [Monkish independent scholar](/fragments/monkish-independent-scholar.md)
+* [Monkish independent scholar](/misc/monkish-independent-scholar.md)
 	* [David Pearce](/people/david-pearce.md)
 
 <!-- #web/people -->

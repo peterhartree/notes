@@ -2,7 +2,7 @@ import os
 import fileinput
 
 baseDirectory = "src/"
-directories = ["", "people","fragments","useful"]
+directories = ["", "people","misc","useful"]
 imageDirectory = "images/"
 
 # -----

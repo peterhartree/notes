@@ -1,7 +1,7 @@
 # Brian Tomasik
 *Content warning: some of Tomasik’s essays, including some of those I link to here, contain descriptions of extreme suffering.*
 
-Brian Tomasik is a [Monkish independent scholar](/fragments/monkish-independent-scholar.md).
+Brian Tomasik is a [Monkish independent scholar](/misc/monkish-independent-scholar.md).
 
 I’ve read a small fraction of Tomasik’s output (mostly the essays on ethics) and I don’t have a great feel for his overall worldview, despite his attempt to summarise it [here](https://reducing-suffering.org/summary-beliefs-values-big-questions/). One thing I’m confused about is that his summary suggests he has very high subjective confidence in several beliefs about value and meta-ethics. I can’t really see how anyone could get to such high confidence on these topics, so I feel like I must be missing something, or else we have some big differences on epistemology that I don’t understand. 
 
@@ -27,7 +27,7 @@ This seems true, but also true for extreme positive experiences. I understand an
 
 Tomasik suggests, reasonably, that those who have not experienced extreme suffering cannot understand it. But the same seems true for those who have not experienced extreme happiness.
 
-Anyway, a bit like David Pearce, I appreciate Tomasik as someone who has dedicated a large chunk of his life to thinking and writing and screaming ([Screamers](/fragments/screamers.md)) about the problem of suffering in public. I share the worry that we lucky ones tend towards obliviousness and complacency about the problem that has terrible consequences. Unlike them, I’m a “life lover”, with a strong intuition about the value of [Cheerful axiology](/fragments/cheerful-axiology.md).
+Anyway, a bit like David Pearce, I appreciate Tomasik as someone who has dedicated a large chunk of his life to thinking and writing and screaming ([Screamers](/misc/screamers.md)) about the problem of suffering in public. I share the worry that we lucky ones tend towards obliviousness and complacency about the problem that has terrible consequences. Unlike them, I’m a “life lover”, with a strong intuition about the value of [Cheerful axiology](/misc/cheerful-axiology.md).
 
 Tomasik is quite young, so I’m looking forward to seeing how his views evolve over the next decades.
 
@@ -44,7 +44,7 @@ Complication: the Co2e emissions associated with a beef meal are very large comp
 A skeptic might say that Brian’s article is a caricature of the naive utilitarian: making a spreadsheet full of dubious calculations and using that to determine moral action. I say no: Fermi estimates are a useful method. It would be foolish to casually construct a Fermi and blindly trust the outputs, but Fermi estimates really can serve as a valuable input to your overall decision, particularly due to their ability to reveal non-intuitive differences in order of magnitude, which the human brain usually struggles to detect and give due weight. Bad math can be worse than no math, but scope insensitivity and/or overlooking differences of several orders of magnitude is also pretty terrible.
 
 ## Backlinks
-* [Monkish independent scholar](/fragments/monkish-independent-scholar.md)
+* [Monkish independent scholar](/misc/monkish-independent-scholar.md)
 	* [Brian Tomasik](/people/brian-tomasik.md)
 
 <!-- #web/people -->

@@ -47,7 +47,7 @@ Below I’ll list out some considerations that might push us to think the differ
 		* @TODO I have Gigarenzer / Taleb evolutionary rationality stuff in mind here; flesh this out
 	* There are [various reasons](https://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/) it’s unwise to take expected value calculations literally.
 * Moral uncertainty: various uncertainties about axiology and normative ethics might substantially narrow the gap between (2) and (3), though it seems unlikely they would flip them. Some candidates: 
-	* Impartial axiology probably does not determine ideal action: there is surely some level at which we should bear our partial values in mind (some notes on this in [Value, reasons, self](/fragments/value-reasons-self.md)). Seems this could shift things a bunch.
+	* Impartial axiology probably does not determine ideal action: there is surely some level at which we should bear our partial values in mind (some notes on this in [Value, reasons, self](/misc/value-reasons-self.md)). Seems this could shift things a bunch.
 	* Person-affecting views may have something to them.
 	* Proximity in space or time may actually count for something, despite the apparently striking consensus among professional philosophers.
 	* There might be something morally wrong about simple expected value calculation.

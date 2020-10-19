@@ -15,7 +15,7 @@ python3 helpers/bear-notes-to-markdown/bear_export_sync.py --out ~/Dropbox/_Note
 # If we don't do this, we'll end up with duplicates and old files.
 # If you don't have the `trash` utility: `brew install trash`
 
-trash -rf src/fragments
+trash -rf src/misc
 trash -rf src/people
 trash -rf src/useful
 trash -rf src/images
@@ -35,5 +35,5 @@ python3 helpers/transform_markdown.py
 # @TODO Refactor
 # -----
 mv src/people/people.md src/people/index.md
-mv src/fragments/fragments.md src/fragments/index.md
+mv src/misc/misc.md src/misc/index.md
 mv src/useful/useful.md src/useful/index.md

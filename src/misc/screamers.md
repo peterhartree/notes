@@ -9,8 +9,8 @@ If I ask: "who are the screamers today?" I immediately think of the effective al
 
 ## Backlinks
 * [Brian Tomasik](/people/brian-tomasik.md)
-	* Anyway, a bit like David Pearce, I appreciate Tomasik as someone who has dedicated a large chunk of his life to thinking and writing and screaming ([Screamers](/fragments/screamers.md)) about the problem of suffering in public. I share the worry that we lucky ones tend towards obliviousness and complacency about the problem that has terrible consequences. Unlike them, I’m a “life lover”, with a strong intuition about the value of [Cheerful axiology](/fragments/cheerful-axiology.md).
+	* Anyway, a bit like David Pearce, I appreciate Tomasik as someone who has dedicated a large chunk of his life to thinking and writing and screaming ([Screamers](/misc/screamers.md)) about the problem of suffering in public. I share the worry that we lucky ones tend towards obliviousness and complacency about the problem that has terrible consequences. Unlike them, I’m a “life lover”, with a strong intuition about the value of [Cheerful axiology](/misc/cheerful-axiology.md).
 
-<!-- #web/fragments -->
+<!-- #web/misc# -->
 
 <!-- {BearID:screamers.md} -->

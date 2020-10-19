@@ -1,14 +1,13 @@
 # Cheerful axiology
-
 > In some, it is their weaknesses that philosophize; in others, their riches and strengths. The former need their philosophy, be it as a prop, a sedative, medicine, redemption, elevation, or self-alienation; for the latter, it is only a beautiful luxury, in the best case the voluptuousness of a triumphant gratitude that eventually has to inscribe itself in cosmic capital letters on the heaven of concepts.
 > 
 > […]
 > 
 > All those bold lunacies of metaphysics, especially answers to the question about the value of existence, may always be considered first of all as symptoms of certain bodies; and if such world affirmations or world negations lack altogether any grain of significance when measured scientifically, they give the historian and psychologist all the more valuable hints as symptoms.
-> — Nietzsche, The Gay Science, Preface to the Second Edition
+> <cite>Nietzsche, The Gay Science, Preface to the Second Edition</cite>
 
 > We take care not to say that the world is worth /less/ […] the whole attitude of man […] as judge of the world who finally places existence itself on his scales and finds it too light—the monstrous stupidity of this attitude has finally dawned on us and we are sick of it.
-> — Nietzsche, The Gay Science, Book V, §346
+> <cite>Nietzsche, The Gay Science, Book V, §346</cite>
  
 Axiology is the study of value and disvalue. Once you have an axiological theory, you can (in theory) use it to rank possible worlds from best to worst.
 
@@ -37,8 +36,7 @@ I have a strong intuition that you need to learn to love the present before you 
 
 ## Backlinks
 * [Brian Tomasik](/people/brian-tomasik.md)
-	* Anyway, a bit like David Pearce, I appreciate Tomasik as someone who has dedicated a large chunk of his life to thinking and writing and screaming ([Screamers](/fragments/screamers.md)) about the problem of suffering in public. I share the worry that we lucky ones tend towards obliviousness and complacency about the problem that has terrible consequences. Unlike them, I’m a “life lover”, with a strong intuition about the value of [Cheerful axiology](/fragments/cheerful-axiology.md).
+	* Anyway, a bit like David Pearce, I appreciate Tomasik as someone who has dedicated a large chunk of his life to thinking and writing and screaming ([Screamers](/misc/screamers.md)) about the problem of suffering in public. I share the worry that we lucky ones tend towards obliviousness and complacency about the problem that has terrible consequences. Unlike them, I’m a “life lover”, with a strong intuition about the value of [Cheerful axiology](/misc/cheerful-axiology.md).
 
-<!-- #web/fragments -->
+<!-- #web/misc# -->
 
-<!-- {BearID:cheerful-axiology.md} -->

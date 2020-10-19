@@ -24,8 +24,8 @@ I particularly admire those for whom academia clearly was a viable option. Many 
 
 ## Backlinks
 * [Brian Tomasik](/people/brian-tomasik.md)
-	* Brian Tomasik is a [Monkish independent scholar](/fragments/monkish-independent-scholar.md).
+	* Brian Tomasik is a [Monkish independent scholar](/misc/monkish-independent-scholar.md).
 
-<!-- #web/fragments -->
+<!-- #web/misc# -->
 
 <!-- {BearID:monkish-independent-scholar.md} -->
