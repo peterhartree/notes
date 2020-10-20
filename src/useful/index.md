@@ -17,6 +17,7 @@ A collection of practical advice. I’m just dumping a bunch of stuff in here fo
 
 ## Travelling 
 * [How to travel with three screens](/useful/how-to-travel-with-three-screens.md)
+* [Buy a 4G router (it’s much better than a mobile phone hotspot)](/useful/buy-a-4g-router-(it’s-much-better-than-a-mobile-phone-hotspot).md)
 * [Buy a portable battery](/useful/buy-a-portable-battery.md)
 
 ## Personal finance
