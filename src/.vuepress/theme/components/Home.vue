@@ -143,14 +143,11 @@ export default {
       font-weight 500
       border-bottom none
       padding-bottom 0
-      color lighten($textColor, 10%)
-    p
-      color lighten($textColor, 25%)
   .footer
     padding 2.5rem
     border-top 1px solid $borderColor
     text-align center
-    color lighten($textColor, 25%)
+
 
 @media (max-width: $MQMobile)
   .home
