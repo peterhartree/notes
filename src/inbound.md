@@ -6,48 +6,54 @@ Roughly: if I spent more than 5 minutes on it, I’m logging it here.  Seems lik
 
 I wondered about also logging time spent on Twitter / Hacker News / etc here but it’s too much trouble, I’ll deal with that separately.
 
+## 02020-11-1
+* Article: [Actually Solving Problems, Jess Whittlestone](https://jesswhittlestone.com/blog/2020/10/3/actually-solving-problems)
 
-## 2020-10-18
+## 02020-10-26
+* Article: [Does Palantir See Too Much?](https://www.nytimes.com/interactive/2020/10/21/magazine/palantir-alex-karp.html) 
+	* Recommended by Tyler Cowen. Took me 30 mins to read, but there was not much new here.
+
+## 02020-10-18
 * Chapter: Larry Temkin: Was Parfit’s Life Wasted?
 * Chapter: Caring and having reasons to care, On What Matters vol 3
 
-## 2020-10-16
+## 02020-10-16
 * Podcast: Stephen Bachelor - Future of Life 
 
-## 2020-10-13
+## 02020-10-13
 * Podcast: Peter Singer - Jolly Swagman
 
-## 2020-10-12
+## 02020-10-12
 * Podcast: Torenberg and and Ben Reinhardt - Venture Stories
 
-## 2020-10-11
+## 02020-10-11
 * https://rootsofprogress.org/summary-the-rise-and-fall-of-american-growth
 * https://www.theatlantic.com/health/archive/2020/09/k-overlooked-variable-driving-pandemic/616548/
 * Article: Blinkist summary of JBP 12 Rules
 * Podcast: JBP Maps of Meaning lecture 2
 * Podcast: Tim Harford on How to Make Things Add Up
 
-## 2020-10-10
+## 02020-10-10
 * Notes: GPI Seminar Series, Summer 2020, esp. Broome
 * https://www.zerohedge.com/markets/guiding-principle-our-time-cya
 
-## 2020-10-10
+## 02020-10-10
 * Article: Singer preface to Does Anything Really Matter
 * Chapter: Preface and Summary, On What Matters Volume 3 (unfinished) *
 * https://80000hours.org/articles/how-to-reduce-existential-risk/
 * Article: [Sharing the World with Utility Monsters: AI with Moral Status](https://nickbostrom.com/papers/monster.pdf) - Carl Schulman & Nick Bostrom
 
-## 2020-10-09
+## 02020-10-09
 * Podcast: Sam Altman on OpenAI and GPT-3 - Exponential View
 * Podcast: Eric Weinstein ep. 100 - Swagman
 * Podcast: Matt Ridley - Swagman
 
-## 2020-10-08
+## 02020-10-08
 * Podcast: The Rise and Fall of Monetary Policy - Ian Macfarlane - Jolly Swagman
 * Podcast: How All Financial Markets Turned Into The Same Big Trade - Odd Lots
 * Podcast: Jesse Livermore - Upside Down M arkets - Invest Like the Best
 
-## 2020-10-07
+## 02020-10-07
 * Book: Clock of the Long Now (ch 24-X)
 * Article: [Slack Club - The Last Rationalist](https://www.thelastrationalist.com/slack-club.html)
 
