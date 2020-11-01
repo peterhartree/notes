@@ -14,7 +14,7 @@ Some people recommend using a dedicated device for writing, on the grounds that 
 Pen and paper usually doesn’t work for me, but I carry a pocket journal and a black ballpoint in case I need to write someone a note and for the times when I do feel like doing something by hand. 
 
 ## Key ingredients
-* iPad (8th generation) with Apple smart case
+* iPad (7th generation) with Apple smart case
 * Logitech K380 bluetooth keyboard
 * [ProCase foldable stand](https://www.amazon.co.uk/gp/product/B08CH245V4/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 * [Bear](https://bear.app/) or Google Docs 
