@@ -87,5 +87,6 @@ The experience:
 
 Where to start:
 * [The Clock of The Long Now](https://www.amazon.com/Clock-Long-Now-Time-Responsibility/dp/0465007805)
+* [Seminars about Long Term Thinking — Summaries](https://archive.org/details/SALTSummariesCondensedIdeasAboutLongTermThinking)
 * [The 10,000 Year Clock](https://longnow.org/clock/)
 * [Brand’s homepage](http://sb.longnow.org/SB_homepage/Home.html)
