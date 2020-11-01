@@ -1,7 +1,7 @@
 # My setup for reading, highlighting and annotation
 Before 2020, I did most of my reading on Kindle, and would use [Klib](http://klib.me/) to copy-paste my reading highlights into my note repository. 
 
-In 2020 I found a much, much better option:
+In 2020 I found a much better option:
 
 1. Read and highlight using [PDF Expert](https://pdfexpert.com/) on iPad, MacBook, or iPhone.
 2. Copy-paste or export highlights from PDF Expert to my note repository.

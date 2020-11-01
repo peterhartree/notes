@@ -1,9 +1,9 @@
 # How to find good podcast episodes
-Most podcast apps exhibit lamentable neophilia: their main episode discovery mechanism is “pull to refresh” on the new episodes list. This makes sense if you mostly want to keep up with daily/weekly affairs, but for the rest of us, it’s an unhelpful nudge to favour novelty over quality or relevance. 
+Most podcast apps are lamentably neophillic: their main episode discovery mechanism is “pull to refresh” on the new episodes list. This makes sense if you mostly want to keep up with daily/weekly affairs, but for the rest of us, it’s an unhelpful nudge to favour novelty over quality and relevance. 
 
-I want a podcast app that makes it easy for me to find the best episodes that are related to what I’m thinking about at the moment. Much of the time, I don’t care if the episode was released today or 10 years ago. 
+I want an app that makes it easy for me to find the best episodes that are related to what I’m thinking about at the moment. Much of the time, I don’t care if the episode was released today or 10 years ago. 
 
-As a starting point I would like a podcast app that is built around the following discovery pattern:
+As a starting point I would like an app that is built around the following discovery pattern:
 
 1. Search by topic or person across all episodes of all podcasts.
 2. Click the interesting matches to generate an episode playlist.
