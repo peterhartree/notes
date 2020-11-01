@@ -16,6 +16,7 @@ If this project proves useful, I will improve the entries.
 * [Rolf Dobelli](/people/rolf-dobelli.md)
 * [B.J. Fogg](/people/b-j--fogg.md)
 * [Tim Harford](/people/tim-harford.md)
+* [Sam Harris](/people/sam-harris.md)
 * [David Pearce](/people/david-pearce.md)
 * [Brian Tomasik](/people/brian-tomasik.md)
 * [Bernard Williams](/people/bernard-williams.md)
