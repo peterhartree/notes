@@ -12,6 +12,7 @@ If this project proves useful, I will improve the entries.
 <!-- You can see the changelog here, and get less than monthly updates by subscribing here. @TODO -->
 
 * [Nick Bostrom](/people/nick-bostrom.md) 
+* [Stewart Brand](/people/stewart-brand.md)
 * [Tyler Cowen](/people/tyler-cowen.md)
 * [Rolf Dobelli](/people/rolf-dobelli.md)
 * [B.J. Fogg](/people/b-j--fogg.md)
