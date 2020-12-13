@@ -16,6 +16,7 @@ If this project proves useful, I will improve the entries.
 * [Tyler Cowen](/people/tyler-cowen.md)
 * [Rolf Dobelli](/people/rolf-dobelli.md)
 * [B.J. Fogg](/people/b-j--fogg.md)
+* [Jonathan Haidt](/people/jonathan-haidt.md)
 * [Tim Harford](/people/tim-harford.md)
 * [Sam Harris](/people/sam-harris.md)
 * [David Pearce](/people/david-pearce.md)
