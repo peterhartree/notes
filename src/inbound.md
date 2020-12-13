@@ -6,10 +6,81 @@ Roughly: if I spent more than 5 minutes on it, I’m logging it here.  Seems lik
 
 I wondered about also logging time spent on Twitter / Hacker News / etc here but it’s too much trouble, I’ll deal with that separately.
 
-## 02020-11-1
+02020-12-
+* Article: Jonathan Haidt in Meaning in Life, Susan Wolf
+* Article: Beckstead Proposed adjustment to Astronomical Waste argument
+
+02020-12-06
+* Various EA Forum threads, including Jason Crawford AMA
+* Book: Meaningness, various chapters.
+* https://www.benkuhn.net/wnf/
+* Podcast: Frankfurt School parr’s 1-3, Philosophise This
+
+02020-12-05
+* Chapter: 1-4, Great Founder Theory, Samo Burja
+* https://marginalrevolution.com/marginalrevolution/2011/03/the-fallacy-of-mood-affiliation.html
+
+## 02020-11-29
+https://notes.andymatuschak.org/Spaced_repetition_systems_can_be_used_to_program_attention?stackedNotes=z2ewMN8Hzd8gt4qyfQV1ognJ5PQs3CXxDfCJ
+* **Translating knowledge into spaced repetition prompts** Matuschak (private draft)
+
+## 02020-11-25
+- Film: Only Lovers Left Alive, Jim Jarmusch
+
+## 02020-11-22
+* Article: Classifying global catastrophic risks, Avin et al
+* Podcast: The American Ideal of Progress, Palladium
+* Podcast: Post COVID, Talking Politics
+* Article: [The Weekend & The 4HL](https://paulskallas.substack.com/p/the-weekend-and-the-4hl)
+
+## 02020-11-19
+* Podcast: EconTalk: Weaving
+* Podcast: CWT: Jimmy Wales
+* https://jsomers.net/i-should-have-loved-biology/
+
+## 02020-11-15
+* Article: Liquid olives and iPhones, Andy Matuschak
+* Chapter: How to Predict the Future in What We Owe The Future, Will MacAskill
+* Chapters: 8, 9 Radical Uncertainty, King
+* Article: [10 things I’ve learned, Milton Glaser](https://www.miltonglaser.com/files/Essays-10things-8400.pdf)
+* Article: [Rational Me or We?](https://www.lesswrong.com/posts/w9kwayt5SWqBQe8Nx/rational-me-or-we)
+* Article: [Competent Elites](https://www.lesswrong.com/posts/CKpByWmsZ8WmpHtYa/competent-elites)
+
+## 02020-11-13
+* Course: Learn UI Design
+* Podcast: Being and Becoming, Philosophise This
+* Article: [Conviviality, Dom Luca](https://medium.com/@domleca/conviviality-illich-2b0c5bf6afeb)
+* Article: Ivan Illich, Wikipedia 
+
+[[02020-11-13]]
+
+## 02020-11-08
+* Article: Review of The Righteous Mind
+* Chapter: Divinity with or Without God
+* Article: Outline of The Happiness Hypothesis
+* Article: Haidt practical guide on how to be happy
+* Book: How to build muscle, Julian Shapiro
+* Article: [Notes on Doing Things, Sarah Perry](https://www.ribbonfarm.com/2018/05/10/notes-on-doing-things/)
+* Podcast: [Bruce Sterling: How to be Futuristic](https://youtu.be/kOMoaPIk7Bk)
+* Article: THE TIME-PRESSURE ILLUSION: DISCRETIONARY TIME VS. FREE TIME
+
+[[02020-11-08]]
+
+## 02020-11-07
+* Podcast: Roman Krznaric on being a good ancestor, Palladium
+* Article: Matuschak on SRS prompt authoring
+
+## 02020-11-06
+* Podcast: Tyler Cowen & Joseph Walker
+
+## 02020-11-01
 * Article: [Actually Solving Problems, Jess Whittlestone](https://jesswhittlestone.com/blog/2020/10/3/actually-solving-problems)
+* Podcast: Samo Burja on regulating online speech, Palladium
+* Podcast: Torenberg & Guests on Stripe Climate
+
 
 ## 02020-10-26
+* Article: [4 years at Stripe, Patio 11](https://kalzumeus.com/2020/10/09/four-years-at-stripe/)
 * Article: [Does Palantir See Too Much?](https://www.nytimes.com/interactive/2020/10/21/magazine/palantir-alex-karp.html) 
 	* Recommended by Tyler Cowen. Took me 30 mins to read, but there was not much new here.
 
