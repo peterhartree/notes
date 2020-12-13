@@ -14,6 +14,7 @@ If this project proves useful, I will improve the entries.
 * [Nick Bostrom](/people/nick-bostrom.md) 
 * [Stewart Brand](/people/stewart-brand.md)
 * [Tyler Cowen](/people/tyler-cowen.md)
+* [Richard Dawkins](/people/richard-dawkins.md)
 * [Rolf Dobelli](/people/rolf-dobelli.md)
 * [B.J. Fogg](/people/b-j--fogg.md)
 * [Jonathan Haidt](/people/jonathan-haidt.md)
