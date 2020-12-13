@@ -6,23 +6,29 @@ Roughly: if I spent more than 5 minutes on it, I’m logging it here.  Seems lik
 
 I wondered about also logging time spent on Twitter / Hacker News / etc here but it’s too much trouble, I’ll deal with that separately.
 
-02020-12-
+## 02020-12-13
+_My recording has been rather patchy so far, mainly because it’s too hard to add items to this log from my phone. I may fix this soon. Reading back over the log today was kinda interesting. I do rather suspect that a regular “if I spend more than 5 minutes with this, I’ll have to log it” thought would push me to improve the average quality of what I consume. I want to find an easy way to link this log to my reading notes._
+
+* Book: Great Founder Theory, Samo Burja, several essays
+* Article: [Tough enough? Robust satisficing as a decision norm for long-term policy analysis](https://globalprioritiesinstitute.org/wp-content/uploads/Tough-Enough_Andreas-Mogensen-and-David-Thorstad.pdf) 
+
+## 02020-12-09
 * Article: Jonathan Haidt in Meaning in Life, Susan Wolf
-* Article: Beckstead Proposed adjustment to Astronomical Waste argument
+* Article: A Proposed adjustment to Astronomical Waste argument, Nick Beckstead
 
-02020-12-06
-* Various EA Forum threads, including Jason Crawford AMA
+## 02020-12-06
+* Article: Various EA Forum threads, including Jason Crawford AMA
 * Book: Meaningness, various chapters.
-* https://www.benkuhn.net/wnf/
-* Podcast: Frankfurt School parr’s 1-3, Philosophise This
+* Article: https://www.benkuhn.net/wnf/
+* Podcast: Frankfurt School parts 1-5, Philosophise This
 
-02020-12-05
-* Chapter: 1-4, Great Founder Theory, Samo Burja
-* https://marginalrevolution.com/marginalrevolution/2011/03/the-fallacy-of-mood-affiliation.html
+## 02020-12-05
+* Book: Great Founder Theory, Samo Burja, several essays
+* Article: https://marginalrevolution.com/marginalrevolution/2011/03/the-fallacy-of-mood-affiliation.html
 
 ## 02020-11-29
-https://notes.andymatuschak.org/Spaced_repetition_systems_can_be_used_to_program_attention?stackedNotes=z2ewMN8Hzd8gt4qyfQV1ognJ5PQs3CXxDfCJ
-* **Translating knowledge into spaced repetition prompts** Matuschak (private draft)
+Article: https://notes.andymatuschak.org/Spaced_repetition_systems_can_be_used_to_program_attention?stackedNotes=z2ewMN8Hzd8gt4qyfQV1ognJ5PQs3CXxDfCJ
+* Article: Translating knowledge into spaced repetition prompts, Andy Matuschak
 
 ## 02020-11-25
 - Film: Only Lovers Left Alive, Jim Jarmusch
@@ -36,7 +42,7 @@ https://notes.andymatuschak.org/Spaced_repetition_systems_can_be_used_to_program
 ## 02020-11-19
 * Podcast: EconTalk: Weaving
 * Podcast: CWT: Jimmy Wales
-* https://jsomers.net/i-should-have-loved-biology/
+* Article: https://jsomers.net/i-should-have-loved-biology/
 
 ## 02020-11-15
 * Article: Liquid olives and iPhones, Andy Matuschak
@@ -98,8 +104,8 @@ https://notes.andymatuschak.org/Spaced_repetition_systems_can_be_used_to_program
 * Podcast: Torenberg and and Ben Reinhardt - Venture Stories
 
 ## 02020-10-11
-* https://rootsofprogress.org/summary-the-rise-and-fall-of-american-growth
-* https://www.theatlantic.com/health/archive/2020/09/k-overlooked-variable-driving-pandemic/616548/
+* Article: https://rootsofprogress.org/summary-the-rise-and-fall-of-american-growth
+* Article: https://www.theatlantic.com/health/archive/2020/09/k-overlooked-variable-driving-pandemic/616548/
 * Article: Blinkist summary of JBP 12 Rules
 * Podcast: JBP Maps of Meaning lecture 2
 * Podcast: Tim Harford on How to Make Things Add Up
