@@ -1,5 +1,5 @@
 # Jonathan Haidt
-Haidt’s [book on happiness](https://www.happinesshypothesis.com/chapters.html) explores 10 “great odeas” from ancient wisdom traditions in the light of modern psychology. You can read it as a self-help book, but Haidt aims to describe “how to construct a life of virtue, happiness, fulfilment, and meaning”. I feel fortunate to have stumbled across the book in my late teens.
+Haidt’s [book on happiness](https://www.happinesshypothesis.com/chapters.html) explores 10 “great ideas” from ancient wisdom traditions in the light of modern psychology. You can read it as a self-help book, but Haidt aims to describe “how to construct a life of virtue, happiness, fulfilment, and meaning”. I feel fortunate to have stumbled across the book in my late teens.
 
 ## The rider and the elephant
 > The mind is divided in many ways, but the division that really matters is between conscious/reasoned processes and automatic/implicit processes. 
