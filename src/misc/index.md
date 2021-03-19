@@ -13,4 +13,5 @@ Comments, pointers, corrections greatly appreciated.
 * [Screamers](/misc/screamers.md) 
 * [The worst moral theory, except for all the others we’ve tried](/misc/the-worst-moral-theory-except-for-all-the-others-we’ve-tried.md)
 * [Value, reasons, self](/misc/value-reasons-self.md)
+* [Where am I?](/misc/where-am-i.md)
 
