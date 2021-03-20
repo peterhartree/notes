@@ -134,14 +134,14 @@ export default {
       color lighten($textColor, 25%)
       margin-right 0.25rem
   .last-updated
-    float right
-    font-size 0.9em
+    border-top 1px solid $secondaryAccentColor
+    padding-top 0.5rem
+    font-size 1rem
+    color #aaa
     .prefix
       font-weight 500
-      color lighten($textColor, 25%)
     .time
       font-weight 400
-      color #767676
 
 @media (max-width: $MQMobile)
   .page-edit

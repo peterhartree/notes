@@ -18,13 +18,6 @@
       </h1>
 
       <p
-        v-if="data.tagline !== null"
-        class="description"
-      >
-        {{ data.tagline || $description || 'Welcome to your VuePress site' }}
-      </p>
-
-      <p
         v-if="data.actionText && data.actionLink"
         class="action"
       >
@@ -107,7 +100,7 @@ export default {
     h1
       font-size 3rem
     h1, .description, .action
-      margin 1.8rem auto
+      margin 3rem auto 1.5rem auto
     .description
       max-width 35rem
       font-size 1.6rem
@@ -126,7 +119,6 @@ export default {
       &:hover
         background-color lighten($accentColor, 10%)
   .features
-    border-top 1px solid $borderColor
     padding 1.2rem 0
     margin-top 2.5rem
     display flex
@@ -140,12 +132,10 @@ export default {
     max-width 30%
     h2
       font-size 1.4rem
-      font-weight 500
       border-bottom none
       padding-bottom 0
   .footer
     padding 2.5rem
-    border-top 1px solid $borderColor
     text-align center
 
 
