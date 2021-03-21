@@ -13,7 +13,7 @@
         :alt="$siteTitle"
       >
       <span
-        v-if="$siteTitle"
+        v-if="$siteTitle && !isHomepage"
         ref="siteName"
         class="site-name"
         :class="{ 'can-hide': $site.themeConfig.logo }"
@@ -66,6 +66,10 @@ export default {
 
     isAlgoliaSearch () {
       return this.algolia && this.algolia.apiKey && this.algolia.indexName
+    },
+
+    isHomepage() {
+      return this.$route.path === '/'
     }
   },
 
@@ -109,7 +113,6 @@ $navbar-horizontal-padding = 1.5rem
     vertical-align top
   .site-name
     font-size 1.3rem
-    font-family: 'IBM Plex Sans', sans-serif;
     font-weight 600
     color $textColor
     position relative

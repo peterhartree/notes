@@ -16,6 +16,11 @@
       >
         {{ data.heroText || $title || 'Hello' }}
       </h1>
+      <div
+      v-if="data.footer"
+      class="footer"
+      v-html="data.footer"
+      ></div>
 
       <p
         v-if="data.actionText && data.actionLink"
@@ -53,11 +58,9 @@
 
     <Content class="theme-default-content custom" />
 
-    <div
-      v-if="data.footer"
-      class="footer"
-      v-html="data.footer"
-    ></div>
+    <h2>What's new?</h2>
+    <p>In the <a href="https://github.com/peterhartree/notes/commits/master">commit history</a>, text changes are prefixed with a forward slash. <br>I'll make a better interface soon.</p>
+
   </main>
 </template>
 
@@ -91,7 +94,6 @@ export default {
   margin 0px auto
   display block
   .hero
-    text-align center
     img
       max-width: 100%
       max-height 280px
@@ -134,10 +136,6 @@ export default {
       font-size 1.4rem
       border-bottom none
       padding-bottom 0
-  .footer
-    padding 2.5rem
-    text-align center
-
 
 @media (max-width: $MQMobile)
   .home
