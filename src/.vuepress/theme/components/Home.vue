@@ -81,28 +81,6 @@
       </div>
     </div>
     <script>
-    fetch('https://listen.thevalmy.com/')
-      .then(response => response.text())
-      .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-      .then(data => {
-        const items = data.querySelectorAll("item");
-        let html = ``;
-        let episodeNumber = ``;
-        const episodeCount = items.length;
-        items.forEach(function(el, index) {
-          episodeNumber = episodeCount - index;
-          if(index < 6) {
-          html += `
-            <li>
-                <a href="https://thevalmy.com/${episodeNumber}" target="_blank" rel="noopener">
-                  ${el.querySelector("title").innerHTML}
-                </a>
-            </li>
-          `;
-          }
-        });
-        document.getElementById('list_podcasts').innerHTML = html;
-      });
     </script>
   </main>
 </template>
@@ -126,6 +104,30 @@ export default {
         text: this.data.actionText
       }
     }
+  },
+  created() {
+    fetch('https://listen.thevalmy.com/')
+      .then(response => response.text())
+      .then(str => new window.DOMParser().parseFromString(str, 'text/xml'))
+      .then(data => {
+        const items = data.querySelectorAll('item');
+        let html = ``;
+        let episodeNumber = ``;
+        const episodeCount = items.length;
+        items.forEach(function(el, index) {
+          episodeNumber = episodeCount - index;
+          if(index < 6) {
+          html += `
+            <li>
+                <a href="https://thevalmy.com/${episodeNumber}" target="_blank" rel="noopener">
+                  ${el.querySelector("title").innerHTML}
+                </a>
+            </li>
+          `;
+          }
+        });
+        document.getElementById('list_podcasts').innerHTML = html;
+      });
   }
 }
 </script>
