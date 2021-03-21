@@ -58,9 +58,52 @@
 
     <Content class="theme-default-content custom" />
 
-    <h2>What's new?</h2>
-    <p>In the <a href="https://github.com/peterhartree/notes/commits/master">commit history</a>, text changes are prefixed with a forward slash. <br>I'll make a better interface soon.</p>
+    <div class="whats-new">
+      <h2>Recently added</h2>
 
+      <div class="notes">
+        <p>My notes:</p>
+        <ul id="list_notes">
+          <li><router-link to="/misc/where-am-i.html">Where am I?</router-link></li>
+          <li><router-link to="/people/tyler-cowen.html">Tyler Cowen</router-link ></li>
+          <li><router-link to="/people/stewart-brand.html">Stewart Brand</router-link ></li>
+          <li><router-link to="/people/susan-wolf.html">Susan Wolf</router-link ></li>
+          <li><router-link to="/people/bernard-williams.html">Bernard Williams</router-link ></li>
+          <li><router-link to="/misc/value-reasons-self.html">Value, reasons, self</router-link ></li>
+        </ul>
+      </div>
+
+      <div class="podcasts">
+        <p>Interesting podcasts:</p>
+        <ul id="list_podcasts">
+          <li>Loading...</li>
+        </ul>
+      </div>
+    </div>
+    <script>
+    fetch('https://listen.thevalmy.com/')
+      .then(response => response.text())
+      .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+      .then(data => {
+        const items = data.querySelectorAll("item");
+        let html = ``;
+        let episodeNumber = ``;
+        const episodeCount = items.length;
+        items.forEach(function(el, index) {
+          episodeNumber = episodeCount - index;
+          if(index < 6) {
+          html += `
+            <li>
+                <a href="https://thevalmy.com/${episodeNumber}" target="_blank" rel="noopener">
+                  ${el.querySelector("title").innerHTML}
+                </a>
+            </li>
+          `;
+          }
+        });
+        document.getElementById('list_podcasts').innerHTML = html;
+      });
+    </script>
   </main>
 </template>
 
@@ -124,10 +167,23 @@ export default {
     padding 1.2rem 0
     margin-top 2.5rem
     display flex
+    display none
     flex-wrap wrap
     align-items flex-start
     align-content stretch
     justify-content space-between
+  .whats-new
+    margin-bottom 8rem
+    h2
+      font-size 2rem
+      margin-top 3rem
+      margin-bottom 0rem
+  .notes
+    width 30%
+    float left
+  .podcasts
+    width 70%
+    float left
   .feature
     flex-grow 1
     flex-basis 30%
@@ -137,8 +193,11 @@ export default {
       border-bottom none
       padding-bottom 0
 
+
 @media (max-width: $MQMobile)
   .home
+    .podcasts, .notes
+      width 100%
     .features
       flex-direction column
     .feature
@@ -147,8 +206,8 @@ export default {
 
 @media (max-width: $MQMobileNarrow)
   .home
-    padding-left 1.5rem
-    padding-right 1.5rem
+    padding-left 1rem
+    padding-right 1rem
     .hero
       img
         max-height 210px
@@ -162,7 +221,7 @@ export default {
       .action-button
         font-size 1rem
         padding 0.6rem 1.2rem
-    .feature
+    .feature, .whats-new
       h2
         font-size 1.25rem
 </style>
