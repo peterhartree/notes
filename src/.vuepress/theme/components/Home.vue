@@ -73,7 +73,7 @@
         </ul>
       </div>
 
-      <div class="podcasts">
+      <div class="podcasts" style="display: none;">
         <p>Interesting podcasts:</p>
         <ul id="list_podcasts">
           <li>Loading...</li>
@@ -106,6 +106,7 @@ export default {
     }
   },
   created() {
+    /*
     fetch('https://listen.thevalmy.com/')
       .then(response => response.text())
       .then(str => new window.DOMParser().parseFromString(str, 'text/xml'))
@@ -128,6 +129,7 @@ export default {
         });
         document.getElementById('list_podcasts').innerHTML = html;
       });
+    */
   }
 }
 </script>
