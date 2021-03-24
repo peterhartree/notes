@@ -1,5 +1,5 @@
 # People
-This is a very incomplete list of people I am grateful to have learned from. Each entry includes some remarks and suggested entry points.
+A very incomplete list of people I am grateful to have learned from. Each entry includes some remarks and suggested entry points.
 
 I’ve started writing these notes mostly for myself, as an exercise in appreciation.
 
@@ -7,7 +7,7 @@ I relate to a few of these people as exemplars. All of these figures are flawed 
 
 Most entries are quick notes written in minutes, not hours. I’m picking people fairly randomly as I feel motivated to write about them.
 
-If this project proves useful, I will improve the entries. 
+If this exercise proves useful, I will improve the entries. 
 
 <!-- You can see the changelog here, and get less than monthly updates by subscribing here. @TODO -->
 

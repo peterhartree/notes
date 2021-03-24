@@ -11,9 +11,13 @@ Sam’s podcast is also good, for example his early interviews with Geoffrey Wes
 
 Sam spends some of his time commenting on hot button issues like religion, genetics, freedom of speech, and contemporary politics. Some of his positions are controversial, and some are presumably wrong. But, some people portray his views as “dangerous” or “beyond the pale”, and would like to eject him from public discourse. I have seen no justification for this, and I’m usually impressed by his willingness to discuss these topics carefully, despite the predictable blowback. Sam is one of those figures that is worth engaging directly: if you’ve read about him in the Guardian, Vox or similar, there’s a good chance you’ve read a hit piece.
 
-Sam recently added a “moments” feature to his app, where he offers brief reflections, delivered by notification at a random time within a window you choose. I’ll sign off with this one, which Nietzsche might have liked:
+Sam recently added a “moments” feature to his app, where he offers brief reflections, delivered by notification at a random time within a window you choose. For example:
 
 > Much of our thinking about ourselves and the world is either pointless or actively harmful. Because it is so often born of anxiety or envy or self judgement or other negative emotions and in turn it perpetuates those other states of mind.
+
+Or:
+
+> Wherever you are in your day, whether you’re just getting up, making lunch, or getting ready for bed, try resolving to begin again. Everything that has happened today is already in the past, this moment is new.
 
 [1] Another interesting attempt: Peloton, the fitness company.
 

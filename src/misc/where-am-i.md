@@ -1,25 +1,25 @@
 # Where am I?
 
 ## Big numbers
-At 13.8 billion years young, the Universe is probably just getting started [1]. 
+13.8 billion years have passed, yet the universe is probably just getting started.
 
-The early Universe was 75% hydrogen, 24% helium, and 1% lithium. The first stars formed about 13.2 billion years ago, and most of the heavier elements—including those that make up your body and most of what surrounds you—were formed in the huge explosions of dying stars.
+The early universe was 75% hydrogen, 24% helium, and 1% lithium. The first stars formed about 13.2 billion years ago, and most of the heavier elements—including those that make up your body and most of what surrounds you—were formed in the huge explosions of dying stars.
 
-The Sun is one of 250 billion stars in the Milky Way galaxy. The Milky Way is one of at least 200 billion galaxies in our observable Universe [2]. 
+The Sun is one of 250 billion stars in the Milky Way galaxy. The Milky Way is one of at least 200 billion galaxies in the observable universe. 
 
 ![](../images/DA333F9C-A797-41CF-A36C-B8A39ACAE761-4902-00002D1249AE8CF2/xdf-full.jpg)
 
-When you look at the night sky, the stars visible to the naked eye make up a tiny fraction of those in the Milky Way.
+When you gaze at the night sky, the stars you can see are just a tiny fraction of those in the Milky Way.
 
 ![](../images/DB385CC0-B6AD-4E33-8003-A5B3A1410268-26802-0000A16DCD662BA9/EwDaiT9WEAEEvxV.jpg)
 
 The Sun is a bit less than halfway through its 9.5 billion year life span. The Earth has been around 4.5 billion years.
 
-Life on Earth has been around for at least 3.77 billion years, perhaps as long as 4.41 billion years. For most of that time, it was single cells. Multicellular life emerged about a billion years ago, and our aquatic ancestors crawled out of the sea about 500 million years ago.
+Life on Earth has been going for at least 3.77 billion years. Multicellular life emerged about a billion years ago, and our ancestors crawled out of the sea about 500 million years ago.
 
 Want to get a better sense of how big a million is? See [here](https://waitbutwhy.com/2014/11/from-1-to-1000000.html).
 
-The Agricultural Revolution took place between 5-10,000 BCE, and the major world religions emerged 2-3000 years ago, roughly 60-90 human generations ago. 
+The Agricultural Revolution took place between 5-10,000 BCE, and the major world religions emerged some 60-90 human generations ago. 
 
 About [108 billion humans have lived so far](https://www.prb.org/howmanypeoplehaveeverlivedonearth/). [People alive today have enjoyed and endured 15% of all the human experience there has ever been](https://www.lesswrong.com/posts/SwBEJapZNzWFifLN6/the-funnel-of-human-experience).
 
@@ -30,7 +30,7 @@ I am writing this from a small village in England.
 Hmm.
 
 ## Things are changing
-If you zoom out and look at world population and GDP over the last 12,000 years, you’ll see that the rate of change was slow, then modest, and then... a couple hundred years ago, the party starts.
+If you look at world population and GDP over the last 12,000 years, you’ll see that the rate of change was slow, then modest, and then... a couple hundred years ago, the party starts.
 
 ![](../images/F9646A35-F165-4922-ABF9-F02FFC7162DE-4902-00002A0AB9344576/64E3CB51-5C3D-4F94-B846-4937AC0B2521.png)
 ![](../images/5CD820E9-1E36-4403-B59A-832E3C5FF836-4902-00002AC09B7220F0/9056D6A8-B78A-41BA-AF7D-4BF0456148FD.png)
@@ -60,12 +60,6 @@ Brian Cox offers a [longer view](https://www.youtube.com/watch?v=uD4izuDMUQA):
 Hmm.
 
 ![](../images/1A756F9D-CAEC-41CE-83B6-2E55ADD3F85D-26802-0000A17DDEECC934/1024px-The_Earth_seen_from_Apollo_17.jpg)
-
-## Notes
-
-1. A minority of apparently credible cosmologists [claim](https://www.nationalgeographic.com/science/article/101027-science-space-universe-end-of-time-multiverse-inflation) the Universe might have just 5 billion years to go. And I guess the simulation might get shut down.
-
-2. Some estimate there are as many as 2 trillion galaxies.
 
 <!-- #web/misc -->
 
