@@ -1,35 +1,33 @@
 # How to find good podcast episodes
-In most podcast apps, the “New episodes” list is the easiest way to find things to listen to. This favours novelty and serendipity over quality and relevance. 
+The “New episodes” list is a trap! It favours novelty and serendipity over quality and relevance.
 
-I want an app that makes it easy to find the best episodes that are related to what I’m thinking about. Most of the time, I don’t care if the episode was released today or 10 years ago. 
+Much of the time, the best thing to listen to is a high quality discussion of a topic that’s already on my mind. It usually doesn’t matter if the episode was released today or 10 years ago. 
 
-As a starting point I would like an app that lets me:
+## Podcast search
+The website [listennotes.com](http://listennotes.com/) is the best podcast search engine I’ve found. You can:
 
-1. Search by topic or person across all episodes of all podcasts.
-2. Select the interesting matches to create a playlist.
+1. Search all episodes of all podcasts for a topic or person of interest.
+2. Save interesting results to your “Listen later” playlist.
+3. Listen to episodes from the playlist using your favourite podcast app.
+_The “Listen later” playlists have an RSS feed that you can subscribe to in the usual way._
 
-I’m yet to find a mobile app that does this well. But  [listennotes.com](http://listennotes.com/)  does enable this. My  [listennotes.com](http://listennotes.com/)  episode discovery pattern looks like this:
+An alternative: the Podcast Addict mobile app lets you search across all episodes of all the podcasts you subscribe to.
 
-1. Search  [listennotes.com](http://listennotes.com/)  for a topic or person of interest.
-2. Save the interesting results to my “Listen later” playlist.
-3. Listen to episodes from the playlist using my podcast mobile app
-	1. The listennotes.com “Listen later” playlists have an RSS feed that you can subscribe to in the usual way with your preferred podcast app.
+If you know a good mobile app with a ListenNotes-style search function, please send me a note.
 
-A similar but less good option: in Podcast Addict you can search across all episodes of all the podcasts you subscribe to.
-
-If you know of an app I might be interested in, please do get in touch.
-
-## Podcast episode curators
-The “episode curation” scene is gradually starting to exist. Here are some of the ones I think are good, please tell me about more:
+## Curated episode feeds
+A small number of people have started publishing curated feeds of their favourite episodes:
 
 * [The Valmy](https://thevalmy.com) — I run this one!
-* [The Syllabus](https://www.the-syllabus.com/)
 * [The Podcast Browser](https://www.thepodcastbrowser.com/)
+* [The Syllabus](https://www.the-syllabus.com/) — a lot of work goes into this, but there’s something odd about the curation, I almost never listen to the things they suggest.
+
+I don’t know why more people aren’t doing this.
 
 ## Other podcast apps of interest
-* [Shuffle](https://getshuffle.app/) looks cool, I will try it soon
-* [Breaker](https://www.breaker.audio/) is trying to do social podcasting and might be good. I found the app unusable because it auto-downloads the most recent episodes of all 250+ podcasts I subscribe to, and I couldn’t switch this function off.
-
+* [Shuffle](https://getshuffle.app/) seems promising, I’ll try it again in 2021.
+* [Breaker](https://www.breaker.audio/) is trying to do social podcasting and might be good one day. I found the app unusable because it auto-downloads the most recent episodes of all 250+ podcasts I subscribe to, and I couldn’t switch this function off.
+* [Listennotes.com](https://www.listennotes.com/api/apps/) publishes a list of apps that use its API. Presumably one of these will eventually implement the UI I’m looking for…
 
 
 
