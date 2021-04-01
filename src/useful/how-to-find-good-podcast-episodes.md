@@ -20,7 +20,7 @@ A small number of people have started publishing curated feeds of their favourit
 
 * [The Valmy](https://thevalmy.com) — I run this one!
 * [The Podcast Browser](https://www.thepodcastbrowser.com/)
-* [The Syllabus](https://www.the-syllabus.com/) — a lot of work goes into this, but there’s something odd about the curation, I almost never listen to the things they suggest.
+* [The Syllabus](https://www.the-syllabus.com/)
 
 I don’t know why more people aren’t doing this.
 
