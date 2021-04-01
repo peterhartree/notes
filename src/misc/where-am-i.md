@@ -1,9 +1,9 @@
 # Where am I?
 
 ## Big numbers
-13.8 billion years have passed, yet the universe is probably just getting started.
+13.8 billion years have passed, but the universe is probably just getting started.
 
-The early universe was 75% hydrogen, 24% helium, and 1% lithium. The first stars formed about 13.2 billion years ago, and most of the heavier elements—including those that make up your body and most of what surrounds you—were formed in the huge explosions of dying stars.
+The early universe was 75% hydrogen, 24% helium, and 1% lithium. The first stars formed about 13.2 billion years ago, and most of the heavier elements—including those that make up your body and most of what surrounds you—were formed in huge explosions as these stars burned out.
 
 The Sun is one of 250 billion stars in the Milky Way galaxy. The Milky Way is one of at least 200 billion galaxies in the observable universe. 
 
@@ -21,9 +21,15 @@ Want to get a better sense of how big a million is? See [here](https://waitbutwh
 
 The Agricultural Revolution took place between 5-10,000 BCE, and the major world religions emerged some 60-90 human generations ago. 
 
-About [108 billion humans have lived so far](https://www.prb.org/howmanypeoplehaveeverlivedonearth/). [People alive today have enjoyed and endured 15% of all the human experience there has ever been](https://www.lesswrong.com/posts/SwBEJapZNzWFifLN6/the-funnel-of-human-experience).
+About 200 years ago, Darwin realised that [humans are survival machines](richard-dawkins.md) —robot vehicles blindly programmed by the forces of nature to preserve the self-replicating molecules known as genes. 
 
-In terms of material wealth, I am among the 0.01% of most fortunate humans to have lived. My access to knowledge and information is without precedent.
+Around the same time, secular ethics began in earnest. Nietzsche, as quoted by Parfit:
+
+> At last the horizon appears free to us again, even granted that it is not bright; at last our ships may venture out again, venture out to face any danger; all the daring of the lover of knowledge is permitted again; the sea, our sea, lies open again; perhaps there has never yet been such an ‘open sea’.
+
+About [108 billion humans have lived so far](https://www.prb.org/howmanypeoplehaveeverlivedonearth/). [Humans alive today have enjoyed and endured 15% of all the human experience there has ever been](https://www.lesswrong.com/posts/SwBEJapZNzWFifLN6/the-funnel-of-human-experience).
+
+In terms of material wealth, I am one of the most fortunate humans to have lived. My access to knowledge and information is without precedent.
 
 I am writing this from a small village in England.
 
