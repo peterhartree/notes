@@ -28,15 +28,6 @@ If this exercise proves useful, I will improve the entries.
 * [Robert Wright](/people/robert-wright.md)
 
 
-> Certainly there may be other means of finding oneself, or coming to oneself out of the bewilderment in which one usually wanders as in a dark cloud, but I know of none better than to think on one's true educators.
-> 
-> <cite>Nietzsche, Schopenhauer as Educator</cite>
-
-
-
-
-
-
 <!-- #web/people -->
 
 <!-- {BearID:people.md} -->
