@@ -24,7 +24,7 @@ features:
 - title: Journal
   details: Daily updates from my sabbatical.
   button: { link: "https://docs.google.com/document/d/1l3FNWlNUzcpXtend9wrGc3PWSQDj9AwgWcwmOhRsYRY/edit#", text: "Read the journal" }
-footer: <p>Work in progress.</p><p><a href="https://twitter.com/peterhartree">@peterhartree</a><br><a href="mailto:hello@peterhartree.co.uk">hello@peterhartree.co.uk</a></p>
+footer: <p>Writing to think.</p><p><a href="https://twitter.com/peterhartree">@peterhartree</a><br><a href="mailto:hello@peterhartree.co.uk">hello@peterhartree.co.uk</a></p>
 ---
 
 <!--
