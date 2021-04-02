@@ -8,7 +8,6 @@ Comments, pointers, corrections greatly appreciated.
 * [Cheerful axiology](/misc/cheerful-axiology.md)
 * [Monkish independent scholar](/misc/monkish-independent-scholar.md)
 * [Pluralism](/misc/pluralism.md)
-* [Positive hedonic experience](/misc/positive-hedonic-experience.md)
 * [Reason, tradition, decentralisation](/misc/reason-tradition-decentralisation.md)
 * [Screamers](/misc/screamers.md) 
 * [The worst moral theory, except for all the others we’ve tried](/misc/the-worst-moral-theory-except-for-all-the-others-we’ve-tried.md)
