@@ -1,13 +1,13 @@
 # Reason, tradition, decentralisation
-In [ Tradition is Smarter Than You Are](https://scholars-stage.blogspot.com/2018/08/tradition-is-smarter-than-you-are.html), Tanner Greer reflects on the work of Joseph Henrich and James C. Scott.
+In [ Tradition is Smarter Than You Are](https://scholars-stage.blogspot.com/2018/08/tradition-is-smarter-than-you-are.html), Tanner Greer reflects on Joseph Heinrich and James C. Scott.
 
-The post brings out a key aspect of the challenge of modernity: the pace of change is so fast that once-adaptive traditions are now failing all over the place, but it’s hard to understand all the functions they were serving, so it’s really hard to decide what to conserve/protect/revise/reject.
+One way to think about the challenge of modernity: the pace of change is so fast that once-adaptive traditions are now failing all over the place. But, it’s hard to understand all the functions they were serving, so it’s really hard to decide what to conserve/protect/revise/reject.
 
-We have two technologies, tradition and reason, both of which often serve us well but are also liable to catastrophic failure. What to do?
+We have two technologies, tradition and reason. Both serve us well, but sometimes lead us to catastrophic failure. What to do?
 
-On the face of it, concern about the fragility of these technologies seems like a strong argument in favour of diversity: we can’t know in advance what will work (avoid catastrophic failure), so the best we can do is to have lots of small groups, making different concessions to tradition and reason, each prospering in some ways and failing in others. Things that will work will spread. Some groups will get wiped out, but that’s much less bad than everyone getting wiped out. 
+One answer is: rely diversity and selection effects. If we can’t know in advance what will work, let’s have lots of fairly independent groups, making different concessions to tradition and reason, each prospering in some ways and failing in others. Things that will work will spread. Some groups will get wiped out, but that’s much less bad than everyone getting wiped out. It’s about giving ourselves (as a collective) many chances to get it right, and avoiding “one shot” challenges as much as possible.
 
-I think something like this is the essence of the argument for localism/decentralisation. It’s about giving ourselves (as a collective) many chances to get it right, and avoiding “one chance” challenges as much as possible.
+But: to what extent is this actually an option for us? As our technological capabilities grow, it becomes more likely that a catastrophe for one group becomes a catastrophe for all.
 
 # Notes
 - To what extent can we control the pace of change? (Guess: limited) Should we slow down or speed up the pace of change, insofar as we can? (No idea. Tempting to say slow down but... that is only truly tempting if you think the status quo is acceptable rather than a hellscape… ngh.).
