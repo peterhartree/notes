@@ -23,6 +23,6 @@ Maybe I should read some of his books.
 
 [1] With [one exception](https://en.wikipedia.org/wiki/Jeremy_Bentham#Death_and_the_auto-icon).
 
-[2] A natural worry: what if people take the partial story to be the full story? Clearly, this can have bad consequences—especially if those people happen to be creating powerful systems that optimise for the partial story. The general failure mode of “optimising too hard for the wrong thing” seems widespread, and very costly. Is the Principle of Utility underrated or overrated by liberal institutions at this point? I hope to write on this anon.
+[2] A natural worry: what if people take the partial story to be the full story? Clearly, this can be bad news—especially if those people create powerful systems that optimise for the partial story. The general problem of “optimising too hard for the wrong thing” seems widespread, and very costly. Is the Principle of Utility underrated or overrated by liberal institutions at this point? I hope to write on this anon.
 
 <!-- #web/people -->

@@ -1,7 +1,4 @@
 # People
-> Certainly there may be other means of finding oneself, or coming to oneself out of the bewilderment in which one usually wanders as in a dark cloud, but I know of none better than to think on one's true educators.
-> —Nietzsche, Schopenhauer as Educator
-
 An incomplete list of people I am grateful to have learned from. Each entry includes some remarks and suggested entry points.
 
 I’ve started writing these mostly for myself, as an exercise in appreciation.
@@ -29,6 +26,11 @@ If this exercise proves useful, I will improve the entries.
 * [Bernard Williams](/people/bernard-williams.md)
 * [Susan Wolf](/people/susan-wolf.md)
 * [Robert Wright](/people/robert-wright.md)
+
+
+> Certainly there may be other means of finding oneself, or coming to oneself out of the bewilderment in which one usually wanders as in a dark cloud, but I know of none better than to think on one's true educators.
+> 
+> <cite>Nietzsche, Schopenhauer as Educator</cite>
 
 
 
