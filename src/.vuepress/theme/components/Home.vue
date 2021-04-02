@@ -65,11 +65,11 @@
         <p>My notes:</p>
         <ul id="list_notes">
           <li><router-link to="/misc/where-am-i.html">Where am I?</router-link></li>
+          <li><router-link to="/people/david-runciman.html">David Runciman</router-link></li>
+          <li><router-link to="/misc/value-reasons-self.html">Value, reasons, self</router-link ></li>
           <li><router-link to="/people/tyler-cowen.html">Tyler Cowen</router-link ></li>
           <li><router-link to="/people/stewart-brand.html">Stewart Brand</router-link ></li>
-          <li><router-link to="/people/susan-wolf.html">Susan Wolf</router-link ></li>
           <li><router-link to="/people/bernard-williams.html">Bernard Williams</router-link ></li>
-          <li><router-link to="/misc/value-reasons-self.html">Value, reasons, self</router-link ></li>
         </ul>
       </div>
 
