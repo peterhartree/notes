@@ -1,11 +1,12 @@
 # People
-A very incomplete list of people I am grateful to have learned from. Each entry includes some remarks and suggested entry points.
+> Certainly there may be other means of finding oneself, or coming to oneself out of the bewilderment in which one usually wanders as in a dark cloud, but I know of none better than to think on one's true educators.
+> —Nietzsche, Schopenhauer as Educator
 
-I’ve started writing these notes mostly for myself, as an exercise in appreciation.
+An incomplete list of people I am grateful to have learned from. Each entry includes some remarks and suggested entry points.
 
-I relate to a few of these people as exemplars. All of these figures are flawed in many ways, and presumably they all hold views I disagree with.
+I’ve started writing these mostly for myself, as an exercise in appreciation.
 
-Most entries are quick notes written in minutes, not hours. I’m picking people fairly randomly as I feel motivated to write about them.
+Most entries are brief notes written in minutes, not hours. I’m adding people fairly randomly, when they come to mind and I feel motivated to write about them.
 
 If this exercise proves useful, I will improve the entries. 
 
@@ -17,6 +18,7 @@ If this exercise proves useful, I will improve the entries.
 * [Richard Dawkins](/people/richard-dawkins.md)
 * [Rolf Dobelli](/people/rolf-dobelli.md)
 * [B.J. Fogg](/people/b-j--fogg.md)
+* [Julia Galef](/people/julia-galef.md)
 * [Jonathan Haidt](/people/jonathan-haidt.md)
 * [Tim Harford](/people/tim-harford.md)
 * [Sam Harris](/people/sam-harris.md)
