@@ -34,7 +34,7 @@ Wirecutter [thinks](https://www.nytimes.com/wirecutter/reviews/the-ipad-is-the-b
 In the past I used a small Chromebook as my main writing device. It was fine, and might be your best bet if you want a cheaper option or prefer the Google ecosystem. 
 
 ## This setup in the wild
-On the train:
+On a train:
 ![](../images/2D4E9F18-85EA-4684-8A26-F4FDCBFD683B-89894-0004DE34C06B7F4C/8354F484-5A63-4C8E-8572-CE44AB93F59A.png)
 
 On a terrace, discretely:
