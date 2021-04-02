@@ -1,5 +1,5 @@
 # Misc
-Notes to self, writing to think, discover, remember. Usually less than half-baked. Mainly of interest to my future self, but also to those who wonder how I’m thinking about things. Not recommended for general consumption (read something by [these people](/people/) instead!).
+Notes to self, writing to think, discover, remember. Usually less than half-baked. Mainly of interest to my future self, but also to those who wonder how I’m thinking about things. 
 
 Comments, pointers, corrections greatly appreciated.
 
