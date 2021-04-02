@@ -18,7 +18,6 @@
       </h1>
       <div
       v-if="data.footer"
-      class="footer"
       v-html="data.footer"
       ></div>
 
@@ -56,7 +55,7 @@
       </div>
     </div>
 
-    <Content class="theme-default-content custom" />
+    <!--<Content class="theme-default-content custom" />-->
 
     <div class="whats-new">
       <h2>Recently added</h2>
