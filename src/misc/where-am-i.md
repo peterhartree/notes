@@ -21,7 +21,7 @@ Want to get a better sense of how big a million is? See [here](https://waitbutwh
 
 The Agricultural Revolution took place between 5-10,000 BCE, and the major world religions emerged some 60-90 human generations ago. 
 
-About 200 years ago, Darwin realised that [humans are survival machines](richard-dawkins.md) —robot vehicles blindly programmed by the forces of nature to preserve the self-replicating molecules known as genes. 
+About 200 years ago, Darwin realised that [humans are survival machines](richard-dawkins.md)—robot vehicles blindly programmed by the forces of nature to preserve the self-replicating molecules known as genes. 
 
 Around the same time, secular ethics began in earnest. Nietzsche, as quoted by Parfit:
 
