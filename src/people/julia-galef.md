@@ -14,9 +14,9 @@ Her [podcast](http://rationallyspeakingpodcast.org/) is great (despite the dorky
 *  [Episode 252: Understanding moral disagreements (Jonathan Haidt)](http://rationallyspeakingpodcast.org/show/episode-252-understanding-moral-disagreements-jonathan-haidt.html) 
 * [RS135 - Robin Hanson on: “Most human behavior is signaling”](http://rationallyspeakingpodcast.org/show/rs135-robin-hanson-on-most-human-behavior-is-signaling.html) 
 
-Like [Tyler Cowen](/people/tyler-cowen.md), she’s good at helping us learn to think better. Her style is quite different from his, though—I hope to write more about this soon.
+Like [Tyler Cowen](/people/tyler-cowen.md), she’s good at helping us learn to think. Her style is quite different from his, though—I hope to write more about this soon.
 
-She has a book due out soon, which will promote some of the best norms associated with the rationality community. Her [talk](https://www.youtube.com/watch?v=yfRC8ZgBXZw) at The Long Now Foundation is a good preview.
+She has a book due out soon, which will promote some of the norms associated with the rationality community. Her [talk](https://www.youtube.com/watch?v=yfRC8ZgBXZw) at The Long Now Foundation is a good preview.
 
 
 <!-- #web/people -->

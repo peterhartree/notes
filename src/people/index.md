@@ -1,9 +1,9 @@
 # People
 An incomplete list of people I am grateful to have learned from. Each entry includes some remarks and suggested entry points.
 
-I’ve started writing these mostly for myself, as an exercise in appreciation.
+I’m writing these mostly for myself, as an exercise in appreciation.
 
-Most entries are brief notes written in minutes, not hours. I’m adding people fairly randomly, when they come to mind and I feel motivated to write about them.
+Most entries are written in minutes or hours, not days. I’m adding people fairly randomly, when they come to mind and I feel motivated to write about them.
 
 If this exercise proves useful, I will improve the entries. 
 

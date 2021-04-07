@@ -1,12 +1,14 @@
 # Jonathan Haidt
-Haidt’s [book on happiness](https://www.happinesshypothesis.com/chapters.html) explores 10 “great ideas” from ancient wisdom traditions in the light of modern psychology. You can read it as a self-help book, but Haidt aims to describe “how to construct a life of virtue, happiness, fulfilment, and meaning”. I feel fortunate to have stumbled across the book in my late teens.
+Haidt’s [book on happiness](https://www.happinesshypothesis.com/chapters.html) explores 10 “great ideas” in the light of modern psychology. You can read it as a self-help book, but Haidt aims to describe “how to construct a life of virtue, happiness, fulfilment, and meaning”. I feel fortunate to have stumbled across the book in my late teens.
 
 ## The rider and the elephant
+![](../images/6DCFFE17-326C-4A08-8EC2-817B4F24038E-95337-0000152EE6544A5B/image.png)
+
 > The mind is divided in many ways, but the division that really matters is between conscious/reasoned processes and automatic/implicit processes. 
 
-Think of the conscious mind as a rider atop an elephant: exercising a degree of control, but only insofar as the elephant (the unconscious mind) tolerates it. The unconscious mind is a chaotic collection of diverse and somewhat independent [modules](https://en.wikipedia.org/wiki/Modularity_of_mind).
+Think of the conscious mind as a rider atop an elephant: exercising a degree of control, but only insofar as the elephant—the unconscious mind—tolerates it. The unconscious mind is a chaotic collection of diverse and somewhat independent [modules](https://en.wikipedia.org/wiki/Modularity_of_mind). 
 
-![](../images/6DCFFE17-326C-4A08-8EC2-817B4F24038E-95337-0000152EE6544A5B/image.png)
+Haidt writes:
 
 > Our minds are loose confederations of parts, but we identify with and pay too much attention to one part: conscious verbal thinking. […] Because we can see only one little corner of the mind’s vast operation, we are surprised when urges, wishes, and temptations emerge, seemingly from nowhere. We make pronouncements, vows, and resolutions, and then are surprised by our own powerlessness to carry them out. We sometimes fall into the view that we are fighting with our unconscious, our id, or our animal self. But really we are the whole thing. We are the rider, and we are the elephant. Both have their strengths and special skills.
 > 
@@ -18,7 +20,7 @@ Think of the conscious mind as a rider atop an elephant: exercising a degree of 
 > 
 > Learning how to train the elephant is the secret of self-improvement. 
 
-We can train the elephant through meditation, cognitive therapy, or other means of forming new habits (e.g. simple repetition). Often, we can achieve big wins by making small changes to our environment: [if you make something easier to do, you are more likely to do it—and vice versa](b-j--fogg.md).
+We can train the elephant through meditation, cognitive therapy, or other means of habit formation (e.g. simple repetition). Often, we can achieve big behaviour changes by making small changes to our environment: [if you make something easier to do, you are more likely to do it—and vice versa](b-j--fogg.md).
 
 ## The Hedonic treadmill
 The “[hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill)” is the loop by which our desires, once satisfied, are replaced by new desires... endlessly.  
@@ -52,11 +54,11 @@ Elsewhere, Haidt writes:
 
 > if you think about moral reasoning as a skill we humans evolved to further our social agendas–to justify our own actions and to defend the teams we belong to–then things will make a lot more sense…people’s moral arguments [are] mostly post hoc constructions made up on the fly, crafted to advance one or more strategic objectives. 
 
-I find the Haidt/Nietzsche picture compelling on priors. How should moral philosophers respond to this? One natural response is a greater skepticism towards claims of impartiality or access to universal truths, a greater tendency to ask: who benefits? 
+I find the Haidt/Nietzsche picture compelling on priors. How should moral philosophers respond to this? One response is a greater skepticism towards claims of impartiality or access to universal truths, a greater tendency to ask: who benefits? 
 
 > We do moral reasoning not to reconstruct that actual reasons why *we ourselves* came to a judgment; we reason to find the best possible reasons why *somebody else ought to join us* in our judgment. 
 
-Somehow I’ve not yet read The Righteous Mind… I am looking forward to it. Haidt, by way of Joseph Walker, recently asked Peter Singer for his thoughts on “Durkhemian utilitarianism”. Quoting from The Righteous Mind:
+Somehow I’ve not yet read _The Righteous Mind_… I am looking forward to it. Haidt, by way of Joseph Walker, recently asked Peter Singer for his thoughts on “Durkhemian utilitarianism”. Quoting from _The Righteous Mind_:
 
 > A Durkheimian society at its best would be a stable network composed of many overlapping groups that socialise, reshape and care for individuals who, if left to their own devices, would pursue shallow, carnal and selfish pleasures. A Durkheimian society would value self-control over self-expression, duty over rights and loyalty to groups over concerns for out groups. […] Utilitarians since Jeremy Bentham have focused intently on individuals. They try to improve the welfare of society by giving individuals what they want. But a Durkheimian version of utilitarianism would recognize that human flourishing requires social order and embeddedness. It would begin with the premise that social order is extraordinarily precious and difficult to achieve. A Durkheimian utilitarianism would be open to the possibility that the binding foundations—Loyalty, Authority, and Sanctity—have a crucial role to play in a good society. I think Bentham was right that laws and society should aim as a first approximation to produce the greatest total good. I just want Bentham to read Durkheim, to recognise that we are homo duplex (the products of multi-level selection) before he tells any of us or our legislators to go about maximising total good.
 

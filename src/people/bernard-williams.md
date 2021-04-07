@@ -50,7 +50,7 @@ The mistake of the ahistorical liberals is that:
  
 > they go on […] as though liberalism were timeless. It is not a reproach to these liberals that they cannot see beyond the outer limits of what they ﬁnd acceptable: no-one can do that. But it is more of a reproach that they are not interested enough in why this is so, in why their most basic convictions should seem to be, as I put it, simply there.
 
-To me, these passages bring out why attempts to philosophise without historical context—for example, without reference to evolutionary psychology—often seem naive, superficial. And why we should resist the idea that anything less than a timeless truth is not worth philosophical attention. And why we should be careful about excessive acquiescence to the demand for justification: at a certain point, we must just say: “we are like this and not like that and there is no justification necessary.” 
+To me, these passages bring out why attempts to do philosophy without historical context—for example, without reference to evolutionary psychology—often seem naive and superficial. And why we should resist the idea that anything less than a timeless truth is not worth philosophical attention. And why we should be careful about excessive acquiescence to the demand for justification: at a certain point, we must just say: “we are like this and not like that and there is no justification necessary.” 
 
 In short: Nietzsche had a point.
 

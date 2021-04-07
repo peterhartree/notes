@@ -3,7 +3,7 @@
 
 > We are survival machines—robot vehicles blindly programmed to preserve the selfish molecules known as genes. 
 
-I remember where I was when I read this for the first time. It was one of my early viewquakes.
+I was sitting on the patio in my parents garden when I read this for the first time. It was one of my early viewquakes.
 
 If I were to rework this, I’d cut the word “selfish”, and emphasise the physical aspect of the process: 
 
