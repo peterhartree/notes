@@ -3,7 +3,7 @@
 ## Big numbers
 13.8 billion years have passed, but the universe is probably just getting started.
 
-The early universe was 75% hydrogen, 24% helium, and 1% lithium. The first stars formed about 13.2 billion years ago, and most of the heavier elements—including those that make up your body and most of what surrounds you—were formed in huge explosions as these stars burned out.
+The first stars formed about 13.2 billion years ago, and most of the heavier elements—those that make up your body and most of what surrounds you—were formed in huge explosions as these stars burned out.
 
 The Sun is one of 250 billion stars in the Milky Way galaxy. The Milky Way is one of at least 200 billion galaxies in the observable universe. 
 
@@ -15,7 +15,7 @@ When you gaze at the night sky, the stars you can see are just a tiny fraction o
 
 The Sun is a bit less than halfway through its 9.5 billion year life span. The Earth has been around 4.5 billion years.
 
-Life on Earth has been going for at least 3.77 billion years. Multicellular life emerged about a billion years ago, and our ancestors crawled out of the sea about 500 million years ago.
+Life on Earth has been going for at least 3.77 billion years. Multicellular life emerged about a billion years ago, and our [tetrapod ancestors](https://www.reddit.com/r/HistoryMemes/comments/bgta7s/thanks_land/) crawled out of the sea about 500 million years ago.
 
 Want to get a better sense of how big a million is? See [here](https://waitbutwhy.com/2014/11/from-1-to-1000000.html).
 
@@ -23,20 +23,20 @@ The Agricultural Revolution took place between 5-10,000 BCE, and the major world
 
 About 200 years ago, Darwin realised that [humans are survival machines](richard-dawkins.md)—robot vehicles blindly programmed by the forces of nature to preserve the self-replicating molecules known as genes. 
 
-Around the same time, secular ethics began in earnest. Nietzsche, as quoted by Parfit:
+Around the same time, non-religious ethics began in earnest. Nietzsche, as quoted by Parfit:
 
 > At last the horizon appears free to us again, even granted that it is not bright; at last our ships may venture out again, venture out to face any danger; all the daring of the lover of knowledge is permitted again; the sea, our sea, lies open again; perhaps there has never yet been such an ‘open sea’.
 
-About [108 billion humans have lived so far](https://www.prb.org/howmanypeoplehaveeverlivedonearth/). [Humans alive today have enjoyed and endured 15% of all the human experience there has ever been](https://www.lesswrong.com/posts/SwBEJapZNzWFifLN6/the-funnel-of-human-experience).
+About [108 billion](https://www.prb.org/howmanypeoplehaveeverlivedonearth/) humans have lived so far. People alive today have enjoyed and endured [15%](https://www.lesswrong.com/posts/SwBEJapZNzWFifLN6/the-funnel-of-human-experience) of all the human experience there has ever been.
 
-In terms of material wealth, I am one of the most fortunate humans to have lived. My access to knowledge and information is without precedent.
+In terms of absolute material wealth, I am one of the most fortunate people to have lived. My access to knowledge and information is without precedent.
 
 I am writing this from a small village in England.
 
 Hmm.
 
 ## Things are changing
-If you look at world population and GDP over the last 12,000 years, you’ll see that the rate of change was slow, then modest, and then... a couple hundred years ago, the party starts.
+If you look at world population and GDP over the last 12,000 years, you’ll see that the rate of change was slow, then modest, and then...
 
 ![](../images/F9646A35-F165-4922-ABF9-F02FFC7162DE-4902-00002A0AB9344576/64E3CB51-5C3D-4F94-B846-4937AC0B2521.png)
 ![](../images/5CD820E9-1E36-4403-B59A-832E3C5FF836-4902-00002AC09B7220F0/9056D6A8-B78A-41BA-AF7D-4BF0456148FD.png)
@@ -44,7 +44,7 @@ If you look at world population and GDP over the last 12,000 years, you’ll see
 
 ![](../images/7884A79A-2BA0-4EEA-A81E-56C7BAE5234F-4902-00002B01CA4A19EC/8CA984DD-900A-4B13-B83F-1E09D234A7AE.png)
 
-David Roodman [observes](https://www.openphilanthropy.org/blog/modeling-human-trajectory):
+David Roodman [notes](https://www.openphilanthropy.org/blog/modeling-human-trajectory):
 
 > The human economy has grown super-exponentially. The bigger it has gotten, the faster it has doubled, on average. The global economy churned out $74 trillion in goods and services in 2019, twice as much as in 2000. Such a quick doubling was unthinkable in the Middle Ages and ancient times. Perhaps our earliest doublings took millennia.
 
@@ -59,7 +59,10 @@ Roodman again:
 > 
 > The range of possible futures is wide. So it is our task as citizens and funders, at this moment of potential leverage, to lower the odds of bad paths and raise the odds of good ones.
 
-Brian Cox offers a [longer view](https://www.youtube.com/watch?v=uD4izuDMUQA):
+Hmm.
+
+## What’s after that?
+[Brian Cox](https://www.youtube.com/watch?v=uD4izuDMUQA):
 
 > Life as we know it is only possible for 0.0000000000000000000000000000000000000000000000000000000000000000000000000000000000001% of the lifespan of the Universe (as measured from the Big Bang until the evaporation of the last black hole).
 
